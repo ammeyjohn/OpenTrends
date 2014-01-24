@@ -1,19 +1,27 @@
 # JavaScript #
-* [jQuery Dropdown Check List](http://www.gcooler.com/uploadfile/favorites/demo/dropdown-check-list.0.9/demo.html) (**MIT**) - The Dropdown Check List jQuery widget transforms a regular select html element into a dropdown checkbox list. The plugin is hosted on google code.
-
-![](http://www.gcooler.com/uploadfile/favorites/demo/dropdown-check-list.0.9/demo.png)
-
 * [impress.js](https://github.com/bartaz/impress.js) (**MIT and GPL v2.0 or later**) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com. ([Show Demo](http://bartaz.github.io/impress.js/#/bored))
-* [AngularJS](http://angularjs.org/) (**MIT**) - AngularJS lets you write client-side web applications as if you had a smarter browser. It lets you use good old HTML (or HAML, Jade and friends!) as your template language and lets you extend HTML’s syntax to express your application’s components clearly and succinctly. It automatically synchronizes data from your UI (view) with your JavaScript objects (model) through 2-way data binding. To help you structure your application better and make it easy to test, AngularJS teaches the browser how to do dependency injection and inversion of control. Oh yeah and it also helps with server-side communication, taming async callbacks with promises and deferreds; and makes client-side navigation and deeplinking with hashbang urls or HTML5 pushState a piece of cake. The best of all: it makes development fun!
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) (**MIT**) - A collection of loading indicators animated with CSS. ([Show Demo](http://tobiasahlin.com/spinkit/))
+* [d3.js](http://d3js.org) (**BSD**) - D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
+* [dc.js](http://nickqizhu.github.io/dc.js/) (**Apache License v2.0**) - dc.js is a javascript charting library with native crossfilter support and allowing highly efficient exploration on large multi-dimensional dataset. It leverages d3 engine to render charts in css friendly svg format. Charts rendered using dc.js are naturally data driven and reactive therefore providing instant feedback on user's interaction. The main objective of this project is to provide an easy yet powerful javascript library which can be utilized to perform data visualization and analysis in browser as well as on mobile device.
+* [html-query-plan](https://code.google.com/p/html-query-plan/) (**MIT**) - This is a utility for transforming XML query execution plans into HTML via XSLT.
+* [google-code-prettify](https://code.google.com/p/google-code-prettify/) (**Apache License v2.0**) - A Javascript module and CSS file that allows syntax highlighting of source code snippets in an html page.
+* [Timeline JS](http://timeline.knightlab.com/) (**Mozilla Public License v2.0**) - TimelineJS is an open-source tool that enables you to build visually-rich interactive timelines and is available in 40 languages.
+* [sea.js](http://seajs.org/docs) (**MIT**) - Sea.js is a module loader for the web. It is designed to change the way that you organize JavaScript. With Sea.js, it is pleasure to build scalable web applications.
+
+### Framework ###
+* [Express](http://expressjs.com/) (**MIT**) - Express is a minimal and flexible node.js web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
 * [Meteor](https://www.meteor.com/) (**MIT**) - Meteor is an ultra-simple environment for building modern web applications. With Meteor you write apps:
   - in pure Javascript
   - that send data over the wire, rather than HTML
   - using your choice of popular open-source libraries
-* [d3.js](http://d3js.org) (**BSD**) - D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
+* [AngularJS](http://angularjs.org/) (**MIT**) - AngularJS lets you write client-side web applications as if you had a smarter browser. It lets you use good old HTML (or HAML, Jade and friends!) as your template language and lets you extend HTML’s syntax to express your application’s components clearly and succinctly. It automatically synchronizes data from your UI (view) with your JavaScript objects (model) through 2-way data binding. To help you structure your application better and make it easy to test, AngularJS teaches the browser how to do dependency injection and inversion of control. Oh yeah and it also helps with server-side communication, taming async callbacks with promises and deferreds; and makes client-side navigation and deeplinking with hashbang urls or HTML5 pushState a piece of cake. The best of all: it makes development fun!
+
+### jQuery Plugin ###
+* [jQuery Dropdown Check List](http://www.gcooler.com/uploadfile/favorites/demo/dropdown-check-list.0.9/demo.html) (**MIT**) - The Dropdown Check List jQuery widget transforms a regular select html element into a dropdown checkbox list. 
+
+![](http://www.gcooler.com/uploadfile/favorites/demo/dropdown-check-list.0.9/demo.png)
+
 * [zTree](http://www.ztree.me/v3/main.php) (**MIT**) - zTree is a multi-functional 'tree plug-ins.' based on jQuery. The main advantages of zTree includes excellent performance, flexible configuration, and the combination of multiple functions.
-* [html-query-plan](https://code.google.com/p/html-query-plan/) (**MIT**) - This is a utility for transforming XML query execution plans into HTML via XSLT.
-* [google-code-prettify](https://code.google.com/p/google-code-prettify/) (**Apache License v2.0**) - A Javascript module and CSS file that allows syntax highlighting of source code snippets in an html page.
 * [SimpleModal](http://www.ericmmartin.com/projects/simplemodal/) (**MIT**) - SimpleModal is a lightweight jQuery Plugin which provides a powerful interface for modal dialog development. Think of it as a modal dialog framework. SimpleModal gives you the flexibility to build whatever you can envision, while shielding you from related cross-browser issues inherent with UI development.
 * [TableSorter](http://tablesorter.com/docs/) (**MIT and GPL**) - tablesorter is a jQuery plugin for turning a standard HTML table with THEAD and TBODY tags into a sortable table without page refreshes. tablesorter can successfully parse and sort many types of data including linked data in a cell. It has many useful features including:
   - Multi-column sorting
@@ -23,7 +31,6 @@
   - Cross-browser: IE 6.0+, FF 2+, Safari 2.0+, Opera 9.0+
   - Small code size
 * [toastr](https://github.com/CodeSeven/toastr) (**MIT**) - toastr is a Javascript library for non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended.
-* [Express](http://expressjs.com/) (**MIT**) - Express is a minimal and flexible node.js web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
 
 # Python #
 * [PredictionIO](http://prediction.io) (**AGPL v3.0 for server and Apache License v2.0 for SDKs**) - PredictionIO is an open source machine learning server for software developers to create predictive features, such as personalization, recommendation and content discovery.
