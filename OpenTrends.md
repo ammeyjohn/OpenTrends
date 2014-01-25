@@ -32,6 +32,15 @@
   - Small code size
 * [toastr](https://github.com/CodeSeven/toastr) (**MIT**) - toastr is a Javascript library for non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended.
 
+### Testing ###
+* [Mocha](http://visionmedia.github.io/mocha/) (**MIT**) - Mocha is a feature-rich JavaScript test framework running on node.js and the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
+* [QUnit](http://qunitjs.com/) (**MIT**) - QUnit is a powerful, easy-to-use JavaScript unit testing framework. It's used by the jQuery, jQuery UI and jQuery Mobile projects and is capable of testing any generic JavaScript code, including itself!
+* [Jasmine](https://github.com/pivotal/jasmine) (**MIT**) - Jasmine is a Behavior Driven Development testing framework for JavaScript. It does not rely on browsers, DOM, or any JavaScript framework. Thus it's suited for websites, Node.js projects, or anywhere that JavaScript can run.
+* [SugarTest](http://sugartest.scriptia.net/) (**WTFPL**) - SugarTest makes it easy to write elegant and understandable JavaScript tests. Its API is inspired by both RSpec, Shoulda and jQuery. It works as a DSL running on top of JsUnitTest.
+* [Karma](http://karma-runner.github.io/0.10/index.html) (**MIT**) - The main goal for Karma is to bring a productive testing environment to developers. The environment being one where they don't have to set up loads of configurations, but rather a place where developers can just write the code and get instant feedback from their tests. Because getting quick feedback is what makes you productive and creative.
+* [Intern](http://theintern.io/) (**BSD**) - Intern takes the stress out of testing your Web app.
+* [Istanbul](https://github.com/gotwarlost/istanbul) (**BSD**) - A JS code coverage tool written in JS.
+
 # Python #
 * [PredictionIO](http://prediction.io) (**AGPL v3.0 for server and Apache License v2.0 for SDKs**) - PredictionIO is an open source machine learning server for software developers to create predictive features, such as personalization, recommendation and content discovery.
 
