@@ -7,14 +7,31 @@
 * [google-code-prettify](https://code.google.com/p/google-code-prettify/) (**Apache License v2.0**) - A Javascript module and CSS file that allows syntax highlighting of source code snippets in an html page.
 * [Timeline JS](http://timeline.knightlab.com/) (**Mozilla Public License v2.0**) - TimelineJS is an open-source tool that enables you to build visually-rich interactive timelines and is available in 40 languages.
 * [sea.js](http://seajs.org/docs) (**MIT**) - Sea.js is a module loader for the web. It is designed to change the way that you organize JavaScript. With Sea.js, it is pleasure to build scalable web applications.
+* [Datejs](http://www.datejs.com/) (**MIT**) - Datejs is an open-source JavaScript Date Library.
+
+Comprehensive, yet simple, stealthy and fast. Datejs has passed all trials and is ready to strike. Datejs doesn’t just parse strings, it slices them cleanly in two.
 
 ### Framework ###
+* [jQuery](http://jquery.com/) (**MIT**) - jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
 * [Express](http://expressjs.com/) (**MIT**) - Express is a minimal and flexible node.js web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
 * [Meteor](https://www.meteor.com/) (**MIT**) - Meteor is an ultra-simple environment for building modern web applications. With Meteor you write apps:
   - in pure Javascript
   - that send data over the wire, rather than HTML
   - using your choice of popular open-source libraries
 * [AngularJS](http://angularjs.org/) (**MIT**) - AngularJS lets you write client-side web applications as if you had a smarter browser. It lets you use good old HTML (or HAML, Jade and friends!) as your template language and lets you extend HTML’s syntax to express your application’s components clearly and succinctly. It automatically synchronizes data from your UI (view) with your JavaScript objects (model) through 2-way data binding. To help you structure your application better and make it easy to test, AngularJS teaches the browser how to do dependency injection and inversion of control. Oh yeah and it also helps with server-side communication, taming async callbacks with promises and deferreds; and makes client-side navigation and deeplinking with hashbang urls or HTML5 pushState a piece of cake. The best of all: it makes development fun!
+* [Backbone.js](http://backbonejs.org/) (**MIT**) - Backbone.js gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface.
+* [Ember.js](http://emberjs.com/) (**MIT**) - Ember.js is a JavaScript framework that does all of the heavy lifting that you'd normally have to do by hand. There are tasks that are common to every web app; Ember.js does those things for you, so you can focus on building killer features and UI.
+These are the three features that make Ember.js a joy to use:
+  - Bindings
+  - Computed properties
+  - Auto-updating templates
+* [Knockout.js](http://knockoutjs.com/) (**MIT**) - Knockout is a JavaScript MVVM (a modern variant of MVC) library that makes it easier to create rich, desktop-like user interfaces with JavaScript and HTML. It uses observers to make your UI automatically stay in sync with an underlying data model, along with a powerful and extensible set of declarative bindings to enable productive development.
+* [Cappuccino](http://www.cappuccino-project.org/) (**LGPL v2.1**) - Cappuccino is a framework which makes it easy to create advanced web apps. With just a few lines of code you can have an app built with full undo and redo, truly amazing table views, drag and drop and every modern UI appearance and behaviour you might expect on the desktop.
+* [YUI](http://yuilibrary.com/) (**BSD**) - YUI is a free, open source JavaScript and CSS library for building richly interactive web applications.
+* [JavaScriptMVC](http://javascriptmvc.com/) (**MIT**) - JavaScriptMVC is an open-source framework containing the best ideas in jQuery development. It guides you to successfully completed projects by promoting best practices, maintainability, and convention over configuration.
+* [ZeptoJS](http://zeptojs.com/) (**MIT**) - Zepto is a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API. If you use jQuery, you already know how to use Zepto.
+* [Dojo Toolkit](http://jstherightway.org/) (**BSD and AFL**) - Dojo saves you time and scales with your development process, using web standards as its platform. It’s the toolkit experienced developers turn to for building high quality desktop and mobile web applications.
+* [SproutCore](http://sproutcore.com/) (**MIT**) - SproutCore is a framework for building blazing-fast, desktop-like applications in the web browser using only native HTML5 features. With SproutCore, you can build rich, interactive applications in the web in less code than most simple web pages require today.
 
 ### jQuery Plugin ###
 * [jQuery Dropdown Check List](http://www.gcooler.com/uploadfile/favorites/demo/dropdown-check-list.0.9/demo.html) (**MIT**) - The Dropdown Check List jQuery widget transforms a regular select html element into a dropdown checkbox list. 
