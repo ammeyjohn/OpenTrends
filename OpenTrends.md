@@ -8,7 +8,6 @@
 * [Datejs](http://www.datejs.com/) (**MIT**) - Datejs is an open-source JavaScript Date Library. Comprehensive, yet simple, stealthy and fast. Datejs has passed all trials and is ready to strike. Datejs doesn’t just parse strings, it slices them cleanly in two.
 * [d3.js](http://d3js.org) (**BSD**) - D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
 * [dc.js](http://nickqizhu.github.io/dc.js/) (**Apache License v2.0**) - dc.js is a javascript charting library with native crossfilter support and allowing highly efficient exploration on large multi-dimensional dataset. It leverages d3 engine to render charts in css friendly svg format. Charts rendered using dc.js are naturally data driven and reactive therefore providing instant feedback on user's interaction. The main objective of this project is to provide an easy yet powerful javascript library which can be utilized to perform data visualization and analysis in browser as well as on mobile device.
-* [pixi.js](https://github.com/GoodBoyDigital/pixi.js/) (**MIT**) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback. 
 
 ### Framework ###
 * [jQuery](http://jquery.com/) (**MIT**) - jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
@@ -49,6 +48,7 @@ These are the three features that make Ember.js a joy to use:
 * [toastr](https://github.com/CodeSeven/toastr) (**MIT**) - toastr is a Javascript library for non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended.
 
 ### HTML5 ###
+* [pixi.js](https://github.com/GoodBoyDigital/pixi.js/) (**MIT**) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback. 
 * [melonJS](http://melonjs.org/) (**MIT**) - melonJS is the result of our enthusiasm and past experiments with Javascript, and came from the feeling that no simple, free and standalone library was available to develop games. And although still a work in progress, melonJS already allows to easily create some nice games.
 * [LimeJS](http://www.limejs.com/) (**Apache v2.0**) - LimeJS is a HTML5 game framework for building fast, native-experience games for all modern touchscreens and desktop browsers.
 * [Crafty](http://craftyjs.com/) (**MIT and GPL**) - Crafty is a JavaScript game library that can help you create games in a structured way. Key Features:
@@ -91,6 +91,7 @@ These are the three features that make Ember.js a joy to use:
 * [NEST](http://nest.azurewebsites.net/) (**MIT**) - NEST aims to be a .net client with a very concise API. Its main goal is to provide a solid strongly typed Elasticsearch client. It also has string/dynamic overloads for more dynamic usecases. 
 
 # Cloud Computing #
+
 ### Distributed Monitoring System ###
 * [ZABBIX](http://www.zabbix.com/) (**GNU GPL v2.0**) - The Enterprise-class Monitoring Solution for Everyone.
 * [Nagios](http://www.nagios.org/) (**Free with functions limitation**) - Nagios Is The Industry Standard In IT Infrastructure Monitoring. Nagios offers complete monitoring and alerting for servers, switches, applications, and services.
@@ -119,7 +120,18 @@ These are the three features that make Ember.js a joy to use:
 # Project Management #
 * [TeamLab.v.7.5](https://github.com/TeamLab/teamlab.v7.5) (**GNU AGPL v3.0**) - TeamLab Office is a free open source service that enables users to manage projects, customer relations, documents and teamwork in one place. In other words, users don't need to switch back and forth between multiple applications to perform different tasks, as they obtain a single multi-featured system to organize every step of work improving pro.([http://teamlab.com](http://teamlab.com))
 
-# Text Editor #
+### Code Quality ###
+* [SonarQube](http://www.sonarqube.org/) (**LGPL v3.0**) - SonarQube is an open platform to manage code quality. As such, it covers the 7 axes of code quality:
+
+![](http://www.sonarqube.org/wp-content/themes/sonar/images/7axes.png)
+![](http://www.sonarqube.org/wp-content/themes/sonar/images/3clicks.png)
+
+# Utility #
+
+### IDE ###
+* [Aptana](http://www.aptana.com/) (****) - The professional, open source development tool for the open web. It's ready. It's time. Develop and test your entire web application using a single environment. With support for the latest browser technology specs such as HTML5, CSS3, JavaScript, Ruby, Rails, PHP and Python. We've got you covered!
+
+### Text Editor ###
 * [Dillinger](http://dillinger.io/) (**MIT**) - Dillinger is a cloud-enabled HTML5 Markdown editor.
   - Type some Markdown text in the left window
   - See the HTML in the right
