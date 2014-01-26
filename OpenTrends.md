@@ -1,15 +1,13 @@
 # JavaScript #
 * [impress.js](https://github.com/bartaz/impress.js) (**MIT and GPL v2.0 or later**) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com. ([Show Demo](http://bartaz.github.io/impress.js/#/bored))
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) (**MIT**) - A collection of loading indicators animated with CSS. ([Show Demo](http://tobiasahlin.com/spinkit/))
-* [d3.js](http://d3js.org) (**BSD**) - D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
-* [dc.js](http://nickqizhu.github.io/dc.js/) (**Apache License v2.0**) - dc.js is a javascript charting library with native crossfilter support and allowing highly efficient exploration on large multi-dimensional dataset. It leverages d3 engine to render charts in css friendly svg format. Charts rendered using dc.js are naturally data driven and reactive therefore providing instant feedback on user's interaction. The main objective of this project is to provide an easy yet powerful javascript library which can be utilized to perform data visualization and analysis in browser as well as on mobile device.
 * [html-query-plan](https://code.google.com/p/html-query-plan/) (**MIT**) - This is a utility for transforming XML query execution plans into HTML via XSLT.
 * [google-code-prettify](https://code.google.com/p/google-code-prettify/) (**Apache License v2.0**) - A Javascript module and CSS file that allows syntax highlighting of source code snippets in an html page.
 * [Timeline JS](http://timeline.knightlab.com/) (**Mozilla Public License v2.0**) - TimelineJS is an open-source tool that enables you to build visually-rich interactive timelines and is available in 40 languages.
 * [sea.js](http://seajs.org/docs) (**MIT**) - Sea.js is a module loader for the web. It is designed to change the way that you organize JavaScript. With Sea.js, it is pleasure to build scalable web applications.
-* [Datejs](http://www.datejs.com/) (**MIT**) - Datejs is an open-source JavaScript Date Library.
-
-Comprehensive, yet simple, stealthy and fast. Datejs has passed all trials and is ready to strike. Datejs doesn’t just parse strings, it slices them cleanly in two.
+* [Datejs](http://www.datejs.com/) (**MIT**) - Datejs is an open-source JavaScript Date Library. Comprehensive, yet simple, stealthy and fast. Datejs has passed all trials and is ready to strike. Datejs doesn’t just parse strings, it slices them cleanly in two.
+* [d3.js](http://d3js.org) (**BSD**) - D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
+* [dc.js](http://nickqizhu.github.io/dc.js/) (**Apache License v2.0**) - dc.js is a javascript charting library with native crossfilter support and allowing highly efficient exploration on large multi-dimensional dataset. It leverages d3 engine to render charts in css friendly svg format. Charts rendered using dc.js are naturally data driven and reactive therefore providing instant feedback on user's interaction. The main objective of this project is to provide an easy yet powerful javascript library which can be utilized to perform data visualization and analysis in browser as well as on mobile device.
 
 ### Framework ###
 * [jQuery](http://jquery.com/) (**MIT**) - jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
@@ -49,6 +47,20 @@ These are the three features that make Ember.js a joy to use:
   - Small code size
 * [toastr](https://github.com/CodeSeven/toastr) (**MIT**) - toastr is a Javascript library for non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended.
 
+### HTML5 ###
+* [pixi.js](https://github.com/GoodBoyDigital/pixi.js/) (**MIT**) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback. 
+* [melonJS](http://melonjs.org/) (**MIT**) - melonJS is the result of our enthusiasm and past experiments with Javascript, and came from the feeling that no simple, free and standalone library was available to develop games. And although still a work in progress, melonJS already allows to easily create some nice games.
+* [LimeJS](http://www.limejs.com/) (**Apache v2.0**) - LimeJS is a HTML5 game framework for building fast, native-experience games for all modern touchscreens and desktop browsers.
+* [Crafty](http://craftyjs.com/) (**MIT and GPL**) - Crafty is a JavaScript game library that can help you create games in a structured way. Key Features:
+  - Entities & Components - A clean and decoupled way to organize game elements. No inheritance needed!
+  - Eventbinding - Event system for custom events that can be triggered whenever, whatever and bound just as easily.
+  - No dom manipulation or custom drawing routines required.
+* [Cocos2d-html5](http://www.cocos2d-x.org/wiki/Cocos2d-html5) (**MIT**) - Cocos2d-html5 is an open-source web 2D game framework, released under MIT License. It is a HTML5 version of Cocos2d-x project. Our focus for Cocos2d-html5 development is around making Cocos2d cross platforms between browsers and native application. On top of the framework provided by Cocos2d-html5, games can be written in Javascript, using API that is COMPLETELY COMPATIBLE with that of Cocos2d-x javascript binding. Cocos2d-html5 project can be easily run on browsers which supports HTML5. Cocos2d-html5 also supports running game code in “Cocos2d Javascript binding” without or with little modification.
+
+![](http://www.cocos2d-x.org/attachments/1508/2dh5-logo.png) 
+
+* [Phaser](http://phaser.io/) (**MIT**) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+
 ### Testing ###
 * [Mocha](http://visionmedia.github.io/mocha/) (**MIT**) - Mocha is a feature-rich JavaScript test framework running on node.js and the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
 * [QUnit](http://qunitjs.com/) (**MIT**) - QUnit is a powerful, easy-to-use JavaScript unit testing framework. It's used by the jQuery, jQuery UI and jQuery Mobile projects and is capable of testing any generic JavaScript code, including itself!
@@ -57,6 +69,15 @@ These are the three features that make Ember.js a joy to use:
 * [Karma](http://karma-runner.github.io/0.10/index.html) (**MIT**) - The main goal for Karma is to bring a productive testing environment to developers. The environment being one where they don't have to set up loads of configurations, but rather a place where developers can just write the code and get instant feedback from their tests. Because getting quick feedback is what makes you productive and creative.
 * [Intern](http://theintern.io/) (**BSD**) - Intern takes the stress out of testing your Web app.
 * [Istanbul](https://github.com/gotwarlost/istanbul) (**BSD**) - A JS code coverage tool written in JS.
+
+### Tools ###
+* [JSHint](https://github.com/jshint/jshint) (**MIT**) - JSHint is a community-driven tool to detect errors and potential problems in JavaScript code and to enforce your team’s coding conventions. It is very flexible so you can easily adjust it to your particular coding guidelines and the environment you expect your code to execute in.
+* [JSLint](https://github.com/douglascrockford/JSLint) (****) - JSLINT is a JavaScript function that implements the JSLint code quality tool. The JSLINT function is itself independent of the browser or any other platform, so it can be run in any JavaScript environment without modification. All that is required is to provide some plumbing to get source and options to JSLINT, and to do something interesting with its products.
+
+### Article ###
+* [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript?redirectlocale=en-US&redirectslug=JavaScript)
+* [idiomatic.js](https://github.com/rwaldron/idiomatic.js/) (**Creative Commons Attribution 3.0 Unported License**) - This is a living document and new ideas for improving the code around us are always welcome. Contribute: fork, clone, branch, commit, push, pull request. 
 
 # Python #
 * [PredictionIO](http://prediction.io) (**AGPL v3.0 for server and Apache License v2.0 for SDKs**) - PredictionIO is an open source machine learning server for software developers to create predictive features, such as personalization, recommendation and content discovery.
@@ -69,13 +90,9 @@ These are the three features that make Ember.js a joy to use:
 * [Dapper](https://github.com/SamSaffron/dapper-dot-net) (**Apache License v2.0 and MIT**) - a simple object mapper for .Net. 
 * [NEST](http://nest.azurewebsites.net/) (**MIT**) - NEST aims to be a .net client with a very concise API. Its main goal is to provide a solid strongly typed Elasticsearch client. It also has string/dynamic overloads for more dynamic usecases. 
 
-# Text Editor #
-* [Dillinger](http://dillinger.io/) (**MIT**) - Dillinger is a cloud-enabled HTML5 Markdown editor.
-  - Type some Markdown text in the left window
-  - See the HTML in the right
-  - Magic
+# Cloud Computing #
 
-# Distributed Monitoring System #
+### Distributed Monitoring System ###
 * [ZABBIX](http://www.zabbix.com/) (**GNU GPL v2.0**) - The Enterprise-class Monitoring Solution for Everyone.
 * [Nagios](http://www.nagios.org/) (**Free with functions limitation**) - Nagios Is The Industry Standard In IT Infrastructure Monitoring. Nagios offers complete monitoring and alerting for servers, switches, applications, and services.
 * [splunk](https://www.splunk.com) (**Free with 500MB per day limitation**)
@@ -92,18 +109,35 @@ These are the three features that make Ember.js a joy to use:
   - haproxy 
 * [zPerfmon](https://github.com/zynga/zperfmon) (**Apache License v2.0**) - zPerfmon is an app performance analysis suite. It collects production profiles, systems metrics and other data on a periodic basis. It has data visualization and data correlation capabilities which lets you answer questions about performance, health and behavior trends as well.
 
-# Big Data #
+### Storage ###
 * [Presto](http://prestodb.io/) (**Apache License v2.0**) - Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.
 
-# Project Management #
-* [TeamLab.v.7.5](https://github.com/TeamLab/teamlab.v7.5) (**GNU AGPL v3.0**) - TeamLab Office is a free open source service that enables users to manage projects, customer relations, documents and teamwork in one place. In other words, users don't need to switch back and forth between multiple applications to perform different tasks, as they obtain a single multi-featured system to organize every step of work improving pro.([http://teamlab.com](http://teamlab.com))
-
-# Virtualization #
+### Virtualization ###
 * [docker](http://www.docker.io/) (**Apache License v2.0**) - Docker is an open-source project to easily create lightweight, portable, self-sufficient containers from any application. The same container that a developer builds and tests on a laptop can run at scale, in production, on VMs, bare metal, OpenStack clusters, public clouds and more. 
 
 ![](http://www.docker.io/static/img/homepage-docker-logo.png)
 
-## Game ##
+# Project Management #
+* [TeamLab.v.7.5](https://github.com/TeamLab/teamlab.v7.5) (**GNU AGPL v3.0**) - TeamLab Office is a free open source service that enables users to manage projects, customer relations, documents and teamwork in one place. In other words, users don't need to switch back and forth between multiple applications to perform different tasks, as they obtain a single multi-featured system to organize every step of work improving pro.([http://teamlab.com](http://teamlab.com))
+
+### Code Quality ###
+* [SonarQube](http://www.sonarqube.org/) (**LGPL v3.0**) - SonarQube is an open platform to manage code quality. As such, it covers the 7 axes of code quality:
+
+![](http://www.sonarqube.org/wp-content/themes/sonar/images/7axes.png)
+![](http://www.sonarqube.org/wp-content/themes/sonar/images/3clicks.png)
+
+# Utility #
+
+### IDE ###
+* [Aptana](http://www.aptana.com/) (****) - The professional, open source development tool for the open web. It's ready. It's time. Develop and test your entire web application using a single environment. With support for the latest browser technology specs such as HTML5, CSS3, JavaScript, Ruby, Rails, PHP and Python. We've got you covered!
+
+### Text Editor ###
+* [Dillinger](http://dillinger.io/) (**MIT**) - Dillinger is a cloud-enabled HTML5 Markdown editor.
+  - Type some Markdown text in the left window
+  - See the HTML in the right
+  - Magic
+
+# Game #
 * [CodeCombat](https://github.com/codecombat/codecombat) (**MIT for the code, and CC-BY for the art and music**) - CodeCombat is a multiplayer programming game for learning how to code.
 
 ![](https://dl.dropboxusercontent.com/u/138899/GitHub%20Wikis/readme_00.png)
