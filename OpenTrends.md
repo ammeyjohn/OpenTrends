@@ -1,19 +1,28 @@
 # JavaScript #
 * [impress.js](https://github.com/bartaz/impress.js) (**MIT and GPL v2.0 or later**) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com. ([Show Demo](http://bartaz.github.io/impress.js/#/bored))
 * [google-code-prettify](https://code.google.com/p/google-code-prettify/) (**Apache License v2.0**) - A Javascript module and CSS file that allows syntax highlighting of source code snippets in an html page.
-* [Timeline JS](http://timeline.knightlab.com/) (**Mozilla Public License v2.0**) - TimelineJS is an open-source tool that enables you to build visually-rich interactive timelines and is available in 40 languages.
 * [sea.js](http://seajs.org/docs) (**MIT**) - Sea.js is a module loader for the web. It is designed to change the way that you organize JavaScript. With Sea.js, it is pleasure to build scalable web applications.
 * [Datejs](http://www.datejs.com/) (**MIT**) - Datejs is an open-source JavaScript Date Library. Comprehensive, yet simple, stealthy and fast. Datejs has passed all trials and is ready to strike. Datejs doesn’t just parse strings, it slices them cleanly in two.
 * [math.js](http://mathjs.org/) (**Apache v2.0**) - Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser and offers an integrated solution to work with numbers, big numbers, complex numbers, units, and matrices. Powerful and easy to use.
 
 ![](http://mathjs.org/css/img/mathjs_330x100.png)
 
+* [*html-query-plan](https://code.google.com/p/html-query-plan/) (**MIT**) - This is a utility for transforming XML query execution plans into HTML via XSLT.
+
+### Visualization ###
 * [d3.js](http://d3js.org) (**BSD**) - D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
 * [dc.js](http://nickqizhu.github.io/dc.js/) (**Apache License v2.0**) - dc.js is a javascript charting library with native crossfilter support and allowing highly efficient exploration on large multi-dimensional dataset. It leverages d3 engine to render charts in css friendly svg format. Charts rendered using dc.js are naturally data driven and reactive therefore providing instant feedback on user's interaction. The main objective of this project is to provide an easy yet powerful javascript library which can be utilized to perform data visualization and analysis in browser as well as on mobile device.
-* [*html-query-plan](https://code.google.com/p/html-query-plan/) (**MIT**) - This is a utility for transforming XML query execution plans into HTML via XSLT.
+* [vis.js](http://visjs.org/) (**Apache v2.0**) - Vis.js is a dynamic, browser based visualization library. The library is designed to be easy to use, to handle large amounts of dynamic data, and to enable manipulation of and interaction with the data. The library consists of the components DataSet, Timeline, and Graph.
+* [CHAP Links Library](http://almende.github.io/chap-links-library/) (**Apache v2.0**) - CHAP Links Library is a web based visualization library for displaying graphs, networks, and timelines. The tools are developed as Google Visualization Charts for Javascript and GWT. CHAP Links Library is developed by Almende as part of CHAP, the Common Hybrid Agent Platform.
 
 ### CSS ###
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) (**MIT**) - A collection of loading indicators animated with CSS. ([Show Demo](http://tobiasahlin.com/spinkit/))
+
+### Controls ###
+* [TimelineJS](http://timeline.knightlab.com/) (**Mozilla Public License v2.0**) - TimelineJS is an open-source tool that enables you to build visually-rich interactive timelines and is available in 40 languages.
+* [StoryMapJS](http://storymap.knightlab.com/) (**MIT**) - StoryMapJS is a free tool to help you tell stories on the web that highlight the locations of a series of events. StoryMapJS is currently in a beta release. It is pretty stable in our development environment, and it has a friendly authoring tool.
+* [bootstrap-wysihtml5](http://jhollingworth.github.io/bootstrap-wysihtml5/) (**MIT**) - Bootstrap-wysihtml5 is a javascript plugin that makes it easy to create simple, beautiful wysiwyg editors with the help of wysihtml5 and Twitter Bootstrap.
+* [Chartbuilder](https://github.com/NUKnightLab/Chartbuilder) (**MIT**) - Chartbuilder / Gneisschart is a D3.js based front-end charting application that facilitates easy creation of simple beautiful charts.
 
 ### Framework ###
 * [jQuery](http://jquery.com/) (**MIT**) - jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
@@ -77,6 +86,7 @@ These are the three features that make Ember.js a joy to use:
 * [Istanbul](https://github.com/gotwarlost/istanbul) (**BSD**) - A JS code coverage tool written in JS.
 
 ### Tools ###
+* [JSON Editor Online](https://github.com/josdejong/jsoneditor) (**Apache v2.0**) - JSON Editor Online is a web-based tool to view, edit, and format JSON. It has various modes such as a tree editor, a code editor, and a plain text editor.
 * [JSHint](https://github.com/jshint/jshint) (**MIT**) - JSHint is a community-driven tool to detect errors and potential problems in JavaScript code and to enforce your team’s coding conventions. It is very flexible so you can easily adjust it to your particular coding guidelines and the environment you expect your code to execute in.
 * [JSLint](https://github.com/douglascrockford/JSLint) (****) - JSLINT is a JavaScript function that implements the JSLint code quality tool. The JSLINT function is itself independent of the browser or any other platform, so it can be run in any JavaScript environment without modification. All that is required is to provide some plumbing to get source and options to JSLINT, and to do something interesting with its products.
 
