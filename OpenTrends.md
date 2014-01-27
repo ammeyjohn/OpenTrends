@@ -1,7 +1,5 @@
 # JavaScript #
 * [impress.js](https://github.com/bartaz/impress.js) (**MIT and GPL v2.0 or later**) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com. ([Show Demo](http://bartaz.github.io/impress.js/#/bored))
-* [SpinKit](https://github.com/tobiasahlin/SpinKit) (**MIT**) - A collection of loading indicators animated with CSS. ([Show Demo](http://tobiasahlin.com/spinkit/))
-* [html-query-plan](https://code.google.com/p/html-query-plan/) (**MIT**) - This is a utility for transforming XML query execution plans into HTML via XSLT.
 * [google-code-prettify](https://code.google.com/p/google-code-prettify/) (**Apache License v2.0**) - A Javascript module and CSS file that allows syntax highlighting of source code snippets in an html page.
 * [Timeline JS](http://timeline.knightlab.com/) (**Mozilla Public License v2.0**) - TimelineJS is an open-source tool that enables you to build visually-rich interactive timelines and is available in 40 languages.
 * [sea.js](http://seajs.org/docs) (**MIT**) - Sea.js is a module loader for the web. It is designed to change the way that you organize JavaScript. With Sea.js, it is pleasure to build scalable web applications.
@@ -12,6 +10,10 @@
 
 * [d3.js](http://d3js.org) (**BSD**) - D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
 * [dc.js](http://nickqizhu.github.io/dc.js/) (**Apache License v2.0**) - dc.js is a javascript charting library with native crossfilter support and allowing highly efficient exploration on large multi-dimensional dataset. It leverages d3 engine to render charts in css friendly svg format. Charts rendered using dc.js are naturally data driven and reactive therefore providing instant feedback on user's interaction. The main objective of this project is to provide an easy yet powerful javascript library which can be utilized to perform data visualization and analysis in browser as well as on mobile device.
+* [*html-query-plan](https://code.google.com/p/html-query-plan/) (**MIT**) - This is a utility for transforming XML query execution plans into HTML via XSLT.
+
+### CSS ###
+* [SpinKit](https://github.com/tobiasahlin/SpinKit) (**MIT**) - A collection of loading indicators animated with CSS. ([Show Demo](http://tobiasahlin.com/spinkit/))
 
 ### Framework ###
 * [jQuery](http://jquery.com/) (**MIT**) - jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
