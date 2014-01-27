@@ -121,7 +121,7 @@ These are the three features that make Ember.js a joy to use:
 
 ![](http://www.docker.io/static/img/homepage-docker-logo.png)
 
-# Project Management #
+# Project Life Cycle #
 * [TeamLab.v.7.5](https://github.com/TeamLab/teamlab.v7.5) (**GNU AGPL v3.0**) - TeamLab Office is a free open source service that enables users to manage projects, customer relations, documents and teamwork in one place. In other words, users don't need to switch back and forth between multiple applications to perform different tasks, as they obtain a single multi-featured system to organize every step of work improving pro.([http://teamlab.com](http://teamlab.com))
 
 ### Code Quality ###
