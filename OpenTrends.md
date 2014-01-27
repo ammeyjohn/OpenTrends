@@ -6,6 +6,10 @@
 * [Timeline JS](http://timeline.knightlab.com/) (**Mozilla Public License v2.0**) - TimelineJS is an open-source tool that enables you to build visually-rich interactive timelines and is available in 40 languages.
 * [sea.js](http://seajs.org/docs) (**MIT**) - Sea.js is a module loader for the web. It is designed to change the way that you organize JavaScript. With Sea.js, it is pleasure to build scalable web applications.
 * [Datejs](http://www.datejs.com/) (**MIT**) - Datejs is an open-source JavaScript Date Library. Comprehensive, yet simple, stealthy and fast. Datejs has passed all trials and is ready to strike. Datejs doesn’t just parse strings, it slices them cleanly in two.
+* [math.js](http://mathjs.org/) (**Apache v2.0**) - Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser and offers an integrated solution to work with numbers, big numbers, complex numbers, units, and matrices. Powerful and easy to use.
+
+![](http://mathjs.org/css/img/mathjs_330x100.png)
+
 * [d3.js](http://d3js.org) (**BSD**) - D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
 * [dc.js](http://nickqizhu.github.io/dc.js/) (**Apache License v2.0**) - dc.js is a javascript charting library with native crossfilter support and allowing highly efficient exploration on large multi-dimensional dataset. It leverages d3 engine to render charts in css friendly svg format. Charts rendered using dc.js are naturally data driven and reactive therefore providing instant feedback on user's interaction. The main objective of this project is to provide an easy yet powerful javascript library which can be utilized to perform data visualization and analysis in browser as well as on mobile device.
 
