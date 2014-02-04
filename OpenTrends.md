@@ -4,9 +4,11 @@
 * [sea.js](http://seajs.org/docs) (**MIT**) - Sea.js is a module loader for the web. It is designed to change the way that you organize JavaScript. With Sea.js, it is pleasure to build scalable web applications.
 * [Datejs](http://www.datejs.com/) (**MIT**) - Datejs is an open-source JavaScript Date Library. Comprehensive, yet simple, stealthy and fast. Datejs has passed all trials and is ready to strike. Datejs doesn’t just parse strings, it slices them cleanly in two.
 * [math.js](http://mathjs.org/) (**Apache v2.0**) - Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser and offers an integrated solution to work with numbers, big numbers, complex numbers, units, and matrices. Powerful and easy to use.
-
-![](http://mathjs.org/css/img/mathjs_330x100.png)
-
+* [Headroom.js](http://wicky.nillia.ms/headroom.js/) (**MIT**) - Headroom.js is a lightweight, high-performance JS widget (with no dependencies!) that allows you to react to the user's scroll. The header on this site is a living example, it slides out of view when scrolling down and slides back in when scrolling up. 
+* [Hammer.js](http://eightmedia.github.io/hammer.js/) (****) - Hammer is a small javascript library that triggers gesture events on your page. It's not about components or other cool stuff, just the events.
+* [Type Rendering Mix](http://typerendering.com/) (**BSD**) - TYPE RENDERING MIX apply CSS based on the text rasterizer and antialiasing your browser is using.
+* [Mousetrap](http://craig.is/killing/mice) - Mousetrap is a standalone library with no external dependencies. It weighs in at around 1.9kb minified and gzipped and 3.5kb minified. 
+* [Oasis.js](http://oasisjs.com/) (**MIT**) - Oasis.js helps you structure communication between multiple untrusted sandboxes. It builds on the APIs in HTML5, backporting them to older browsers when necessary. Oasis.js uses the concepts in capability-based security to help you safely expose capabilities and data to untrusted code, secure in the knowledge that the sandboxes can only communicate with each other and the outside world through those capabilities.
 * [*html-query-plan](https://code.google.com/p/html-query-plan/) (**MIT**) - This is a utility for transforming XML query execution plans into HTML via XSLT.
 
 ### Visualization ###
@@ -14,15 +16,29 @@
 * [dc.js](http://nickqizhu.github.io/dc.js/) (**Apache License v2.0**) - dc.js is a javascript charting library with native crossfilter support and allowing highly efficient exploration on large multi-dimensional dataset. It leverages d3 engine to render charts in css friendly svg format. Charts rendered using dc.js are naturally data driven and reactive therefore providing instant feedback on user's interaction. The main objective of this project is to provide an easy yet powerful javascript library which can be utilized to perform data visualization and analysis in browser as well as on mobile device.
 * [vis.js](http://visjs.org/) (**Apache v2.0**) - Vis.js is a dynamic, browser based visualization library. The library is designed to be easy to use, to handle large amounts of dynamic data, and to enable manipulation of and interaction with the data. The library consists of the components DataSet, Timeline, and Graph.
 * [CHAP Links Library](http://almende.github.io/chap-links-library/) (**Apache v2.0**) - CHAP Links Library is a web based visualization library for displaying graphs, networks, and timelines. The tools are developed as Google Visualization Charts for Javascript and GWT. CHAP Links Library is developed by Almende as part of CHAP, the Common Hybrid Agent Platform.
+* [Raphaël](http://raphaeljs.com/) (**MIT**) - Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web. If you want to create your own specific chart or image crop and rotate widget, for example, you can achieve it simply and easily with this library.
 
 ### CSS ###
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) (**MIT**) - A collection of loading indicators animated with CSS. ([Show Demo](http://tobiasahlin.com/spinkit/))
+* [Metro UI CSS 2.0](http://metroui.org.ua/) (**MIT**) - Metro UI CSS a set of styles to create a site with an interface similar to Windows 8.
 
-### Controls ###
+### Component ###
 * [TimelineJS](http://timeline.knightlab.com/) (**Mozilla Public License v2.0**) - TimelineJS is an open-source tool that enables you to build visually-rich interactive timelines and is available in 40 languages.
 * [StoryMapJS](http://storymap.knightlab.com/) (**MIT**) - StoryMapJS is a free tool to help you tell stories on the web that highlight the locations of a series of events. StoryMapJS is currently in a beta release. It is pretty stable in our development environment, and it has a friendly authoring tool.
 * [bootstrap-wysihtml5](http://jhollingworth.github.io/bootstrap-wysihtml5/) (**MIT**) - Bootstrap-wysihtml5 is a javascript plugin that makes it easy to create simple, beautiful wysiwyg editors with the help of wysihtml5 and Twitter Bootstrap.
 * [Chartbuilder](https://github.com/NUKnightLab/Chartbuilder) (**MIT**) - Chartbuilder / Gneisschart is a D3.js based front-end charting application that facilitates easy creation of simple beautiful charts.
+* [Video.js](http://www.videojs.com/) (**Apache v2.0**) - Video.js is a web video player built from the ground up for an HTML5 world. It supports HTML5 and Flash video, as well as YouTube and Vimeo (through plugins). It supports video playback on desktops and mobile devices. This project was started mid 2010, and the player is now used on over 50,000 websites.
+* [TinyMCE](http://www.tinymce.com/index.php) (**LGPL v2.1**) - TinyMCE is a platform independent web based Javascript HTML WYSIWYG editor control released as Open Source under LGPL. TinyMCE has the ability to convert HTML TEXTAREA fields or other HTML elements to editor instances.
+* [Switchery](http://abpetkov.github.io/switchery/) (**MIT**) - Switchery is a simple component that helps you turn your default HTML checkbox inputs into beautiful iOS 7 style switches in just few simple steps. You can easily customize switches, so that they match your design perfectly.
+* [morris.js](http://www.oesmith.co.uk/morris.js/) (**BSD**) - Morris.js is the library that powers the graphs on http://howmanyleft.co.uk/. It's a very simple API for drawing line, bar, area and donut charts.
+* [Turn.js](http://www.turnjs.com/) (**BSD**) - Turn.js is a JavaScript library that will make your content look like a real book or magazine using all the advantages of HTML5. The web is getting beautiful with new user interfaces based in HTML5; turn.js is the best fit for a magazine, book or catalog based in HTML5.
+* [Planetary.js](http://planetaryjs.com/) (**MIT**) - Planetary.js is based on D3.js and TopoJSON. It has built-in support for zoom, rotation, mouse interaction, and displaying animated "pings" at any coordinate. Via plugins, Planetary.js can be extended to do whatever you want!
+
+![](https://github.com/BinaryMuse/planetary.js/raw/master/screenshot.png)
+
+* [mapbox.js](https://github.com/mapbox/mapbox.js)
+* [geojson](https://github.com/mapbox/geojson.io) (**MIT**)
+* [Leaflet](http://leafletjs.com/) - Leaflet is a modern open-source JavaScript library for mobile-friendly interactive maps. It is developed by Vladimir Agafonkin with a team of dedicated contributors. Weighing just about 33 KB of JS, it has all the features most developers ever need for online maps. Leaflet is designed with simplicity, performance and usability in mind. It works efficiently across all major desktop and mobile platforms out of the box, taking advantage of HTML5 and CSS3 on modern browsers while still being accessible on older ones. It can be extended with a huge amount of plugins, has a beautiful, easy to use and well-documented API and a simple, readable source code that is a joy to contribute to.
 
 ### Framework ###
 * [jQuery](http://jquery.com/) (**MIT**) - jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
@@ -89,11 +105,16 @@ These are the three features that make Ember.js a joy to use:
 * [JSON Editor Online](https://github.com/josdejong/jsoneditor) (**Apache v2.0**) - JSON Editor Online is a web-based tool to view, edit, and format JSON. It has various modes such as a tree editor, a code editor, and a plain text editor.
 * [JSHint](https://github.com/jshint/jshint) (**MIT**) - JSHint is a community-driven tool to detect errors and potential problems in JavaScript code and to enforce your team’s coding conventions. It is very flexible so you can easily adjust it to your particular coding guidelines and the environment you expect your code to execute in.
 * [JSLint](https://github.com/douglascrockford/JSLint) (****) - JSLINT is a JavaScript function that implements the JSLint code quality tool. The JSLINT function is itself independent of the browser or any other platform, so it can be run in any JavaScript environment without modification. All that is required is to provide some plumbing to get source and options to JSLINT, and to do something interesting with its products.
+* [exercism.io](http://exercism.io/) (**AGPL**) - Crowd-sourced code reviews on daily practice problems.
 
 ### Article ###
 * [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript?redirectlocale=en-US&redirectslug=JavaScript)
-* [idiomatic.js](https://github.com/rwaldron/idiomatic.js/) (**Creative Commons Attribution 3.0 Unported License**) - This is a living document and new ideas for improving the code around us are always welcome. Contribute: fork, clone, branch, commit, push, pull request. 
+* [idiomatic.js](https://github.com/rwaldron/idiomatic.js/) (**Creative Commons Attribution 3.0 Unported License**) - This is a living document and new ideas for improving the code around us are always welcome. Contribute: fork, clone, branch, commit, push, pull request.
+* [GeoJSON](http://geojson.org/) - GeoJSON is a format for encoding a variety of geographic data structures. GeoJSON supports the following geometry types: Point, LineString, Polygon, MultiPoint, MultiLineString, and MultiPolygon. Lists of geometries are represented by a GeometryCollection. Geometries with additional properties are Feature objects. And lists of features are represented by a FeatureCollection.
+
+# Mobile #
+* [Appium](http://appium.io/) (**Apache v2.0**) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web apps.
 
 # Python #
 * [PredictionIO](http://prediction.io) (**AGPL v3.0 for server and Apache License v2.0 for SDKs**) - PredictionIO is an open source machine learning server for software developers to create predictive features, such as personalization, recommendation and content discovery.
@@ -127,6 +148,7 @@ These are the three features that make Ember.js a joy to use:
 
 ### Storage ###
 * [Presto](http://prestodb.io/) (**Apache License v2.0**) - Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.
+* [InfluxDB](http://influxdb.org/overview/) (**MIT**) - InfluxDB is a time series, events, and metrics database. It's written in Go and has no external dependencies. That means once you install it there's nothing else to manage (like Redis, HBase, or whatever). It's designed to be distributed and scale horizontally, but be useful even if you're only running it on a single box. It's based off the work we did for Errplane which runs an earlier version of this API that currently manages around 2 billion data points per month.
 
 ### Virtualization ###
 * [docker](http://www.docker.io/) (**Apache License v2.0**) - Docker is an open-source project to easily create lightweight, portable, self-sufficient containers from any application. The same container that a developer builds and tests on a laptop can run at scale, in production, on VMs, bare metal, OpenStack clusters, public clouds and more. 
