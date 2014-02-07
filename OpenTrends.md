@@ -9,18 +9,18 @@
 * [Type Rendering Mix](http://typerendering.com/) (**BSD**) - TYPE RENDERING MIX apply CSS based on the text rasterizer and antialiasing your browser is using.
 * [Mousetrap](http://craig.is/killing/mice) - Mousetrap is a standalone library with no external dependencies. It weighs in at around 1.9kb minified and gzipped and 3.5kb minified. 
 * [Oasis.js](http://oasisjs.com/) (**MIT**) - Oasis.js helps you structure communication between multiple untrusted sandboxes. It builds on the APIs in HTML5, backporting them to older browsers when necessary. Oasis.js uses the concepts in capability-based security to help you safely expose capabilities and data to untrusted code, secure in the knowledge that the sandboxes can only communicate with each other and the outside world through those capabilities.
-* [*html-query-plan](https://code.google.com/p/html-query-plan/) (**MIT**) - This is a utility for transforming XML query execution plans into HTML via XSLT.
-
-### Visualization ###
 * [d3.js](http://d3js.org) (**BSD**) - D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
 * [dc.js](http://nickqizhu.github.io/dc.js/) (**Apache License v2.0**) - dc.js is a javascript charting library with native crossfilter support and allowing highly efficient exploration on large multi-dimensional dataset. It leverages d3 engine to render charts in css friendly svg format. Charts rendered using dc.js are naturally data driven and reactive therefore providing instant feedback on user's interaction. The main objective of this project is to provide an easy yet powerful javascript library which can be utilized to perform data visualization and analysis in browser as well as on mobile device.
 * [vis.js](http://visjs.org/) (**Apache v2.0**) - Vis.js is a dynamic, browser based visualization library. The library is designed to be easy to use, to handle large amounts of dynamic data, and to enable manipulation of and interaction with the data. The library consists of the components DataSet, Timeline, and Graph.
 * [CHAP Links Library](http://almende.github.io/chap-links-library/) (**Apache v2.0**) - CHAP Links Library is a web based visualization library for displaying graphs, networks, and timelines. The tools are developed as Google Visualization Charts for Javascript and GWT. CHAP Links Library is developed by Almende as part of CHAP, the Common Hybrid Agent Platform.
 * [Raphaël](http://raphaeljs.com/) (**MIT**) - Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web. If you want to create your own specific chart or image crop and rotate widget, for example, you can achieve it simply and easily with this library.
+* [*html-query-plan](https://code.google.com/p/html-query-plan/) (**MIT**) - This is a utility for transforming XML query execution plans into HTML via XSLT.
 
 ### CSS ###
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) (**MIT**) - A collection of loading indicators animated with CSS. ([Show Demo](http://tobiasahlin.com/spinkit/))
 * [Metro UI CSS 2.0](http://metroui.org.ua/) (**MIT**) - Metro UI CSS a set of styles to create a site with an interface similar to Windows 8.
+* [Pure](http://purecss.io/) (**BSD**) - A set of small, responsive CSS modules that you can use in every web project.
+* [Bootstrap](http://getbootstrap.com/) (**Code licensed under MIT, documentation under CC BY 3.0**) - The most popular front-end framework for developing responsive, mobile first projects on the web. Bootstrap makes front-end web development faster and easier. It's made for folks of all skill levels, devices of all shapes, and projects of all sizes.
 
 ### Component ###
 * [TimelineJS](http://timeline.knightlab.com/) (**Mozilla Public License v2.0**) - TimelineJS is an open-source tool that enables you to build visually-rich interactive timelines and is available in 40 languages.
@@ -125,7 +125,22 @@ These are the three features that make Ember.js a joy to use:
 
 # .NET #
 * [Dapper](https://github.com/SamSaffron/dapper-dot-net) (**Apache License v2.0 and MIT**) - a simple object mapper for .Net. 
-* [NEST](http://nest.azurewebsites.net/) (**MIT**) - NEST aims to be a .net client with a very concise API. Its main goal is to provide a solid strongly typed Elasticsearch client. It also has string/dynamic overloads for more dynamic usecases. 
+* [NEST](http://nest.azurewebsites.net/) (**MIT**) - NEST aims to be a .net client with a very concise API. Its main goal is to provide a solid strongly typed Elasticsearch client. It also has string/dynamic overloads for more dynamic usecases.
+* [Topshelf](http://topshelf-project.com/) (**Apache v2.0**) - Topshelf is a framework for hosting services written using the .NET framework. The creation of services is simplified, allowing developers to create a simple console application that can be installed as a service using Topshelf. The reason for this is simple: It is far easier to debug a console application than a service. And once the application is tested and ready for production, Topshelf makes it easy to install the application as a service.
+* [MassTransit]() (**Apache v2.0**) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
+* [Stact](https://github.com/phatboyg/Stact) (**Apache v2.0**) - An actor library and framework for .NET.
+* [Magnum](https://github.com/phatboyg/Magnum) (****) - A library for the LARGER than average developer.
+* [SignalR](http://signalr.net/) (**Apache v2.0**) - ASP.NET SignalR is a new library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications. What is "real-time web" functionality? It's the ability to have your server-side code push content to the connected clients as it happens, in real-time. You may have heard of WebSockets, a new HTML5 API that enables bi-directional communication between the browser and server. SignalR will use WebSockets under the covers when it's available, and gracefully fallback to other techniques and technologies when it isn't, while your application code stays the same. SignalR also provides a very simple, high-level API for doing server to client RPC (call JavaScript functions in your clients' browsers from server-side .NET code) in your ASP.NET application, as well as adding useful hooks for connection management, e.g. connect/disconnect events, grouping connections, authorization.
+ 
+### Tools ###
+* [JustDecompile](http://www.telerik.com/products/decompiler.aspx)
+* [LINQPad](http://www.linqpad.net/) - LINQPad supports everything in C# 5.0 and Framework 4.x:
+  - LINQ to Objects
+  - LINQ to SQL, Entity Framework
+  - LINQ to XML
+  - Parallel LINQ
+  - OData / WCF Data Services, SharePoint, and Windows DataMarket
+  - Microsoft's ubercool Reactive Extensions
 
 # Cloud Computing #
 
@@ -165,6 +180,25 @@ These are the three features that make Ember.js a joy to use:
 ![](http://www.sonarqube.org/wp-content/themes/sonar/images/3clicks.png)
 
 # Utility #
+* [Notepad++](http://notepad-plus-plus.org/) (**GPL**) - Notepad++ is a free source code editor and Notepad replacement that supports several languages. Running in the MS Windows environment, its use is governed by GPL License.
+* [Fiddler](http://www.telerik.com/fiddler) - The free web debugging proxy for any browser, system or platform
+* [LoadUI](http://www.loadui.org/) - LoadUI is enterprise grade Load Testing Tool. Tests can be distributed and modified in real time. LoadUI is tightly integrated with SoapUI. LoadUI uses a highly graphic interface making Load Testing Fun and Fast. LoadUI can run in the cloud.
+* [SoapUI](http://www.soapui.org/) - SoapUI is the leading desktop application for functional testing, security testing, compliance testing and surveillance testing as well as inspecting, invoking, monitoring, simulating/mocking of REST/WADL and SOAP/WSDL-based APIs.
+* [KDiff3](http://kdiff3.sourceforge.net/) (**GPL**) - KDiff3 is a diff and merge program that
+  - compares or merges two or three text input files or directories,
+  - shows the differences line by line and character by character (!),
+  - provides an automatic merge-facility and
+  - an integrated editor for comfortable solving of merge-conflicts,
+  - supports Unicode, UTF-8 and other codecs, autodetection via byte-order-mark "BOM"
+  - supports KIO on KDE (allows accessing ftp, sftp, fish, smb etc.),
+  - Printing of differences,
+  - Manual alignment of lines,
+  - Automatic merging of version control history ($Log$),
+  - and has an intuitive graphical user interface.
+  - Windows-Explorer integration Diff-Ext-for-KDiff3 - shell extension included in installer (originally by Sergey Zorin: see also Diff Ext)
+  - KDE-Konqueror/Dolphin service menu plugin
+  - Simplified integration with IBM-Rational-Clearcase for Windows (Details).
+  - Read what else is special in a short abstract (PDF).
 
 ### IDE ###
 * [Aptana](http://www.aptana.com/) (****) - The professional, open source development tool for the open web. It's ready. It's time. Develop and test your entire web application using a single environment. With support for the latest browser technology specs such as HTML5, CSS3, JavaScript, Ruby, Rails, PHP and Python. We've got you covered!
