@@ -4,6 +4,7 @@
 * [sea.js](http://seajs.org/docs) (**MIT**) - Sea.js is a module loader for the web. It is designed to change the way that you organize JavaScript. With Sea.js, it is pleasure to build scalable web applications.
 * [Datejs](http://www.datejs.com/) (**MIT**) - Datejs is an open-source JavaScript Date Library. Comprehensive, yet simple, stealthy and fast. Datejs has passed all trials and is ready to strike. Datejs doesn’t just parse strings, it slices them cleanly in two.
 * [math.js](http://mathjs.org/) (**Apache v2.0**) - Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser and offers an integrated solution to work with numbers, big numbers, complex numbers, units, and matrices. Powerful and easy to use.
+* [Async.js](https://github.com/caolan/async) (**MIT**) - Async is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript. Although originally designed for use with node.js, it can also be used directly in the browser. Also supports component.
 * [Headroom.js](http://wicky.nillia.ms/headroom.js/) (**MIT**) - Headroom.js is a lightweight, high-performance JS widget (with no dependencies!) that allows you to react to the user's scroll. The header on this site is a living example, it slides out of view when scrolling down and slides back in when scrolling up. 
 * [Hammer.js](http://eightmedia.github.io/hammer.js/) (****) - Hammer is a small javascript library that triggers gesture events on your page. It's not about components or other cool stuff, just the events.
 * [Type Rendering Mix](http://typerendering.com/) (**BSD**) - TYPE RENDERING MIX apply CSS based on the text rasterizer and antialiasing your browser is using.
@@ -130,6 +131,7 @@ These are the three features that make Ember.js a joy to use:
 ![](http://prediction.io/assets/images/cover1.png) 
 
 * [OnlinePythonTutor](https://github.com/pgbovine/OnlinePythonTutor) (**BSD**) - Online Python Tutor is a free educational tool that helps students overcome a fundamental barrier to learning programming: understanding what happens as the computer executes each line of a program's source code. Using this tool, a teacher or student can write a Python program in the Web browser and visualize what the computer is doing step-by-step as it executes the program.
+* [Faker](https://github.com/joke2k/faker) (**MIT**) - Faker is a Python package that generates fake data for you. Whether you need to bootstrap your database, create good-looking XML documents, fill-in your persistence to stress test it, or anonymize data taken from a production service, Faker is for you.
 
 # .NET #
 * [Dapper](https://github.com/SamSaffron/dapper-dot-net) (**Apache License v2.0 and MIT**) - a simple object mapper for .Net. 
