@@ -14,6 +14,9 @@
 * [vis.js](http://visjs.org/) (**Apache v2.0**) - Vis.js is a dynamic, browser based visualization library. The library is designed to be easy to use, to handle large amounts of dynamic data, and to enable manipulation of and interaction with the data. The library consists of the components DataSet, Timeline, and Graph.
 * [CHAP Links Library](http://almende.github.io/chap-links-library/) (**Apache v2.0**) - CHAP Links Library is a web based visualization library for displaying graphs, networks, and timelines. The tools are developed as Google Visualization Charts for Javascript and GWT. CHAP Links Library is developed by Almende as part of CHAP, the Common Hybrid Agent Platform.
 * [Raphaël](http://raphaeljs.com/) (**MIT**) - Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web. If you want to create your own specific chart or image crop and rotate widget, for example, you can achieve it simply and easily with this library.
+* [localForage](http://mozilla.github.io/localForage/) (**Apache v2.0**) - localForage is a handy library that improves the offline experience of your web app by using asynchronous storage (via IndexedDB or WebSQL where available) but with a simple, localStorage-like API. localForage includes a localStorage-backed fallback store for browsers with no IndexedDB or WebSQL support. This means that asynchronous storage is available in Chrome, Firefox, and Safari (including Safari Mobile).
+* [TogetherJS](https://togetherjs.com/) (**Mozilla Public License v2.0**) - TogetherJS is a service for your website that makes it surprisingly easy to collaborate in real-time. Using TogetherJS two people can interact on the same page, seeing each other's cursors, edits, and browsing a site together. The TogetherJS service is included by the web site owner, and a web site can customize and configure aspects of TogetherJS's behavior on the site.
+* [Task.js](http://taskjs.org/) - task.js is an experimental library for ES6 that makes sequential, blocking I/O simple and beautiful, using the power of JavaScript’s new yield operator.
 * [*html-query-plan](https://code.google.com/p/html-query-plan/) (**MIT**) - This is a utility for transforming XML query execution plans into HTML via XSLT.
 
 ### CSS ###
@@ -39,6 +42,9 @@
 * [mapbox.js](https://github.com/mapbox/mapbox.js)
 * [geojson](https://github.com/mapbox/geojson.io) (**MIT**)
 * [Leaflet](http://leafletjs.com/) - Leaflet is a modern open-source JavaScript library for mobile-friendly interactive maps. It is developed by Vladimir Agafonkin with a team of dedicated contributors. Weighing just about 33 KB of JS, it has all the features most developers ever need for online maps. Leaflet is designed with simplicity, performance and usability in mind. It works efficiently across all major desktop and mobile platforms out of the box, taking advantage of HTML5 and CSS3 on modern browsers while still being accessible on older ones. It can be extended with a huge amount of plugins, has a beautiful, easy to use and well-documented API and a simple, readable source code that is a joy to contribute to.
+* [PDF.js](https://github.com/mozilla/pdf.js) (**Apache v2.0**) - PDF.js is Portable Document Format (PDF) viewer that is built with HTML5. PDF.js is community-driven and supported by Mozilla Labs. Our goal is to create a general-purpose, web standards-based platform for parsing and rendering PDFs.
+* [Popcorn.js](http://popcornjs.org/) (**MIT**) - Popcorn.js is Mozilla's HTML5 video and media library for the open web. It allows web developers, filmmakers, artists, designers and others to easily create timeline based web productions. Popcorn.js helps simplify media API and implementation differences between browsers and includes a powerful event system and a rich plugin architecture and plugins. 
+* [scrollReveal.js](http://julianlloyd.me/scrollreveal/) (**MIT**) - A simple way to create and maintain how elements fade in, triggered when they enter the viewport.
 
 ### Framework ###
 * [jQuery](http://jquery.com/) (**MIT**) - jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
@@ -77,6 +83,7 @@ These are the three features that make Ember.js a joy to use:
   - Cross-browser: IE 6.0+, FF 2+, Safari 2.0+, Opera 9.0+
   - Small code size
 * [toastr](https://github.com/CodeSeven/toastr) (**MIT**) - toastr is a Javascript library for non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended.
+* [jQuery-Notebook](http://raphaelcruzeiro.github.io/jquery-notebook/) (**MIT**) - A simple, clean and elegant WYSIWYG rich text editor for web aplications.
 
 ### HTML5 ###
 * [pixi.js](https://github.com/GoodBoyDigital/pixi.js/) (**MIT**) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback. 
@@ -115,6 +122,7 @@ These are the three features that make Ember.js a joy to use:
 
 # Mobile #
 * [Appium](http://appium.io/) (**Apache v2.0**) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web apps.
+* [Brick](http://mozilla.github.io/brick/index.html) (**Apache v2.0**) - Brick is a bundle of reusable UI components created to enable rapid development of cross-browser and mobile-friendly HTML5 web applications.
 
 # Python #
 * [PredictionIO](http://prediction.io) (**AGPL v3.0 for server and Apache License v2.0 for SDKs**) - PredictionIO is an open source machine learning server for software developers to create predictive features, such as personalization, recommendation and content discovery.
@@ -213,3 +221,7 @@ These are the three features that make Ember.js a joy to use:
 * [CodeCombat](https://github.com/codecombat/codecombat) (**MIT for the code, and CC-BY for the art and music**) - CodeCombat is a multiplayer programming game for learning how to code.
 
 ![](https://dl.dropboxusercontent.com/u/138899/GitHub%20Wikis/readme_00.png)
+
+* [Godot](https://github.com/okamstudio/godot) (**MIT**) - Godot is a fully featured, open source, MIT licensed, game engine. It focuses on having great tools, and a visual oriented workflow that can export to PC, Mobile and Web platforms with no hassle. The editor, language and APIs are feature rich, yet simple to learn, allowing you to become productive in a matter of hours.
+
+![](https://github.com/okamstudio/godot/raw/master/logo.png)
