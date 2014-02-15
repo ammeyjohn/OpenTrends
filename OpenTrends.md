@@ -46,8 +46,10 @@
 * [PDF.js](https://github.com/mozilla/pdf.js) (**Apache v2.0**) - PDF.js is Portable Document Format (PDF) viewer that is built with HTML5. PDF.js is community-driven and supported by Mozilla Labs. Our goal is to create a general-purpose, web standards-based platform for parsing and rendering PDFs.
 * [Popcorn.js](http://popcornjs.org/) (**MIT**) - Popcorn.js is Mozilla's HTML5 video and media library for the open web. It allows web developers, filmmakers, artists, designers and others to easily create timeline based web productions. Popcorn.js helps simplify media API and implementation differences between browsers and includes a powerful event system and a rich plugin architecture and plugins. 
 * [scrollReveal.js](http://julianlloyd.me/scrollreveal/) (**MIT**) - A simple way to create and maintain how elements fade in, triggered when they enter the viewport.
+* [Underscore.js](http://underscorejs.org/) (**MIT**) - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
 
 ### Framework ###
+* [CoffeeScript](http://jashkenas.github.io/coffee-script/) - CoffeeScript is a little language that compiles into JavaScript. Underneath that awkward Java-esque patina, JavaScript has always had a gorgeous heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.
 * [jQuery](http://jquery.com/) (**MIT**) - jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
 * [Express](http://expressjs.com/) (**MIT**) - Express is a minimal and flexible node.js web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
 * [Meteor](https://www.meteor.com/) (**MIT**) - Meteor is an ultra-simple environment for building modern web applications. With Meteor you write apps:
@@ -151,6 +153,7 @@ These are the three features that make Ember.js a joy to use:
   - Parallel LINQ
   - OData / WCF Data Services, SharePoint, and Windows DataMarket
   - Microsoft's ubercool Reactive Extensions
+* [DOCCO](http://jashkenas.github.io/docco/) (**MIT**) - Docco is a quick-and-dirty documentation generator, written in Literate CoffeeScript. It produces an HTML document that displays your comments intermingled with your code. All prose is passed through Markdown, and code is passed through Highlight.js syntax highlighting. This page is the result of running Docco against its own source file.
 
 # Cloud Computing #
 
