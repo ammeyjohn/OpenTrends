@@ -25,6 +25,7 @@
 * [Metro UI CSS 2.0](http://metroui.org.ua/) (**MIT**) - Metro UI CSS a set of styles to create a site with an interface similar to Windows 8.
 * [Pure](http://purecss.io/) (**BSD**) - A set of small, responsive CSS modules that you can use in every web project.
 * [Bootstrap](http://getbootstrap.com/) (**Code licensed under MIT, documentation under CC BY 3.0**) - The most popular front-end framework for developing responsive, mobile first projects on the web. Bootstrap makes front-end web development faster and easier. It's made for folks of all skill levels, devices of all shapes, and projects of all sizes.
+* [Grid](http://www.adamkaplan.me/grid/) - A simple guide to responsive design.
 
 ### Component ###
 * [TimelineJS](http://timeline.knightlab.com/) (**Mozilla Public License v2.0**) - TimelineJS is an open-source tool that enables you to build visually-rich interactive timelines and is available in 40 languages.
@@ -47,6 +48,7 @@
 * [Popcorn.js](http://popcornjs.org/) (**MIT**) - Popcorn.js is Mozilla's HTML5 video and media library for the open web. It allows web developers, filmmakers, artists, designers and others to easily create timeline based web productions. Popcorn.js helps simplify media API and implementation differences between browsers and includes a powerful event system and a rich plugin architecture and plugins. 
 * [scrollReveal.js](http://julianlloyd.me/scrollreveal/) (**MIT**) - A simple way to create and maintain how elements fade in, triggered when they enter the viewport.
 * [Underscore.js](http://underscorejs.org/) (**MIT**) - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
+* [Progress.js](http://usablica.github.io/progress.js/) (**MIT**) - ProgressJs is a JavaScript and CSS3 library which help developers to create and manage progress bar for every objects on the page. 
 
 ### Framework ###
 * [CoffeeScript](http://jashkenas.github.io/coffee-script/) - CoffeeScript is a little language that compiles into JavaScript. Underneath that awkward Java-esque patina, JavaScript has always had a gorgeous heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.
@@ -215,6 +217,7 @@ These are the three features that make Ember.js a joy to use:
 
 ### IDE ###
 * [Aptana](http://www.aptana.com/) (****) - The professional, open source development tool for the open web. It's ready. It's time. Develop and test your entire web application using a single environment. With support for the latest browser technology specs such as HTML5, CSS3, JavaScript, Ruby, Rails, PHP and Python. We've got you covered!
+* [colour-schemes](https://github.com/daylerees/colour-schemes) (**MIT**) - Colour schemes for a variety of editors created by Dayle Rees.
 
 ### Text Editor ###
 * [Dillinger](http://dillinger.io/) (**MIT**) - Dillinger is a cloud-enabled HTML5 Markdown editor.
