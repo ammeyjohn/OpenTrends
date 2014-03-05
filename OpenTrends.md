@@ -123,6 +123,7 @@ These are the three features that make Ember.js a joy to use:
 * [JSHint](https://github.com/jshint/jshint) (**MIT**) - JSHint is a community-driven tool to detect errors and potential problems in JavaScript code and to enforce your team’s coding conventions. It is very flexible so you can easily adjust it to your particular coding guidelines and the environment you expect your code to execute in.
 * [JSLint](https://github.com/douglascrockford/JSLint) (****) - JSLINT is a JavaScript function that implements the JSLint code quality tool. The JSLINT function is itself independent of the browser or any other platform, so it can be run in any JavaScript environment without modification. All that is required is to provide some plumbing to get source and options to JSLINT, and to do something interesting with its products.
 * [exercism.io](http://exercism.io/) (**AGPL**) - Crowd-sourced code reviews on daily practice problems.
+* [RECESS](http://twitter.github.io/recess/) (**Code licensed under the Apache License v2.0. Documentation licensed under CC BY 3.0.**) - Developed at Twitter to support our internal styleguide, RECESS is a simple, attractive code quality tool for CSS built on top of LESS. Incorporate it into your development process as a linter, or integrate it directly into your build system as a compiler, RECESS will keep your source looking clean and super managable.
 
 ### Article ###
 * [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
