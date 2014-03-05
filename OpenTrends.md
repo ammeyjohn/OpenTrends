@@ -18,6 +18,7 @@
 * [localForage](http://mozilla.github.io/localForage/) (**Apache v2.0**) - localForage is a handy library that improves the offline experience of your web app by using asynchronous storage (via IndexedDB or WebSQL where available) but with a simple, localStorage-like API. localForage includes a localStorage-backed fallback store for browsers with no IndexedDB or WebSQL support. This means that asynchronous storage is available in Chrome, Firefox, and Safari (including Safari Mobile).
 * [TogetherJS](https://togetherjs.com/) (**Mozilla Public License v2.0**) - TogetherJS is a service for your website that makes it surprisingly easy to collaborate in real-time. Using TogetherJS two people can interact on the same page, seeing each other's cursors, edits, and browsing a site together. The TogetherJS service is included by the web site owner, and a web site can customize and configure aspects of TogetherJS's behavior on the site.
 * [Task.js](http://taskjs.org/) - task.js is an experimental library for ES6 that makes sequential, blocking I/O simple and beautiful, using the power of JavaScript’s new yield operator.
+* [countUp.js](http://inorganik.github.io/countUp.js/) (**MIT**) - countUp.js is a dependency-free, lightweight JavaScript "class" that can be used to quickly create animations that display numerical data in a more interesting way.
 * [*html-query-plan](https://code.google.com/p/html-query-plan/) (**MIT**) - This is a utility for transforming XML query execution plans into HTML via XSLT.
 
 ### CSS ###
@@ -26,6 +27,7 @@
 * [Pure](http://purecss.io/) (**BSD**) - A set of small, responsive CSS modules that you can use in every web project.
 * [Bootstrap](http://getbootstrap.com/) (**Code licensed under MIT, documentation under CC BY 3.0**) - The most popular front-end framework for developing responsive, mobile first projects on the web. Bootstrap makes front-end web development faster and easier. It's made for folks of all skill levels, devices of all shapes, and projects of all sizes.
 * [Grid](http://www.adamkaplan.me/grid/) - A simple guide to responsive design.
+* [CSS Shake](http://elrumordelaluz.github.io/csshake/) (**MIT**) - Some CSS classes to move your DOM!
 
 ### Component ###
 * [TimelineJS](http://timeline.knightlab.com/) (**Mozilla Public License v2.0**) - TimelineJS is an open-source tool that enables you to build visually-rich interactive timelines and is available in 40 languages.
@@ -49,6 +51,7 @@
 * [scrollReveal.js](http://julianlloyd.me/scrollreveal/) (**MIT**) - A simple way to create and maintain how elements fade in, triggered when they enter the viewport.
 * [Underscore.js](http://underscorejs.org/) (**MIT**) - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
 * [Progress.js](http://usablica.github.io/progress.js/) (**MIT**) - ProgressJs is a JavaScript and CSS3 library which help developers to create and manage progress bar for every objects on the page. 
+* [nanobar.js](http://nanobar.micronube.com/) (**MIT**) - Very very lightweight progress bars (~730 bytes gzipped). No jQuery needed.
 
 ### Framework ###
 * [CoffeeScript](http://jashkenas.github.io/coffee-script/) - CoffeeScript is a little language that compiles into JavaScript. Underneath that awkward Java-esque patina, JavaScript has always had a gorgeous heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.
@@ -58,7 +61,8 @@
   - in pure Javascript
   - that send data over the wire, rather than HTML
   - using your choice of popular open-source libraries
-* [AngularJS](http://angularjs.org/) (**MIT**) - AngularJS lets you write client-side web applications as if you had a smarter browser. It lets you use good old HTML (or HAML, Jade and friends!) as your template language and lets you extend HTML’s syntax to express your application’s components clearly and succinctly. It automatically synchronizes data from your UI (view) with your JavaScript objects (model) through 2-way data binding. To help you structure your application better and make it easy to test, AngularJS teaches the browser how to do dependency injection and inversion of control. Oh yeah and it also helps with server-side communication, taming async callbacks with promises and deferreds; and makes client-side navigation and deeplinking with hashbang urls or HTML5 pushState a piece of cake. The best of all: it makes development fun!
+* [AngularJS](http://angularjs.org/) (**MIT**) - AngularJS lets you write client-side web applications as if you had a smarter browser. It lets you use good old HTML (or 
+* HAML, Jade and friends!) as your template language and lets you extend HTML’s syntax to express your application’s components clearly and succinctly. It automatically synchronizes data from your UI (view) with your JavaScript objects (model) through 2-way data binding. To help you structure your application better and make it easy to test, AngularJS teaches the browser how to do dependency injection and inversion of control. Oh yeah and it also helps with server-side communication, taming async callbacks with promises and deferreds; and makes client-side navigation and deeplinking with hashbang urls or HTML5 pushState a piece of cake. The best of all: it makes development fun!
 * [Backbone.js](http://backbonejs.org/) (**MIT**) - Backbone.js gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface.
 * [Ember.js](http://emberjs.com/) (**MIT**) - Ember.js is a JavaScript framework that does all of the heavy lifting that you'd normally have to do by hand. There are tasks that are common to every web app; Ember.js does those things for you, so you can focus on building killer features and UI.
 These are the three features that make Ember.js a joy to use:
@@ -89,6 +93,7 @@ These are the three features that make Ember.js a joy to use:
   - Small code size
 * [toastr](https://github.com/CodeSeven/toastr) (**MIT**) - toastr is a Javascript library for non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended.
 * [jQuery-Notebook](http://raphaelcruzeiro.github.io/jquery-notebook/) (**MIT**) - A simple, clean and elegant WYSIWYG rich text editor for web aplications.
+* [One Page Scroll](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroll website (iPhone 5S website) with One Page Scroll plugin.
 
 ### HTML5 ###
 * [pixi.js](https://github.com/GoodBoyDigital/pixi.js/) (**MIT**) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback. 
