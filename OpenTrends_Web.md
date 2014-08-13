@@ -78,6 +78,7 @@
 * [One Page Scroll](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroll website (iPhone 5S website) with One Page Scroll plugin.
 * [MixItUp](https://mixitup.kunkalabs.com/) (**CC BY-NC 4.0 for Non-Commercial**) - MixItUp is a jQuery plugin providing animated filtering and sorting.
 * [ScrollMagic](http://janpaepke.github.io/ScrollMagic/) (**Dual licensed under the MIT license and GPL**) - ScrollMagic is a jQuery plugin which essentially lets you use the scrollbar like a progress bar.
+* [Formance.js](http://omarshammas.github.io/formancejs) (**MIT**) - Formance.js is a jQuery library for formatting and validating form fields, based on / inspired by Stripe's jQuery.payment library. 
 
 ### Framework ###
 * [CoffeeScript](http://jashkenas.github.io/coffee-script/) - CoffeeScript is a little language that compiles into JavaScript. Underneath that awkward Java-esque patina, JavaScript has always had a gorgeous heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.
