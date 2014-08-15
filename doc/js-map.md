@@ -1,6 +1,30 @@
 Map
 ===
 
+heatmap.js
+----------
+
+> [http://www.patrick-wied.at/static/heatmapjs/](http://www.patrick-wied.at/static/heatmapjs/)
+
+	LICENSE: 
+
+**heatmap.js** v2.0 is the most advanced heatmap visualization library on the web.
+
+It has a light footprint (~3kB gzip) and with the new 2.0 release heatmap.js just got
+
+- faster, with a new rendering module
+- stronger, to handle even more datapoints (40k+)
+- easier to use so you can get up to speed quickly
+- easier to extend for custom functionality
+
+than ever before. Also:
+All the struggles with unpredictably bad open source support have an end
+The new support license will secure you the premium support you deserve
+
+#### Demo
+
+![](../images/demo_heatmapjs.png)
+
 Kartograph
 ----------
 

@@ -160,6 +160,16 @@ Finally, Snap supports animation. By providing a simple and intuitive JavaScript
 
 Snap is 100% free and 100% open-source (released under an Apache 2 license).
 
+three.js
+--------
+
+> [http://threejs.org/](http://threejs.org/)
+
+	LICENSE: MIT
+	TAG: CANVAS, SVG, CSS3D, WEBGL
+
+JavaScript 3D library. The aim of the project is to create a lightweight 3D library with a very low level of complexity — in other words, for dummies. The library provides canvas, svg, CSS3D and WebGL renderers.
+
 vis.js
 ------
 

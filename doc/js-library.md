@@ -55,6 +55,16 @@ var options = {
 var demo = new countUp("myTargetElement", 24.02, 94.62, 2, 2.5, options);
 demo.start();
 ```
+Crossfilter
+-----------
+
+> [http://square.github.io/crossfilter/](http://square.github.io/crossfilter/)
+
+	LICENSE: Apache v2.0
+
+**Crossfilter** is a JavaScript library for exploring large multivariate datasets in the browser. Crossfilter supports extremely fast (<30ms) interaction with coordinated views, even with datasets containing a million or more records; we built it to power analytics for Square Register, allowing merchants to slice and dice their payment history fluidly.
+
+Since most interactions only involve a single dimension, and then only small adjustments are made to the filter values, incremental filtering and reducing is significantly faster than starting from scratch. Crossfilter uses sorted indexes (and a few bit-twiddling hacks) to make this possible, dramatically increasing the perfor­mance of live histograms and top-K lists. Crossfilter is available under the Apache License.
 
 Headroom.js
 -----------
@@ -72,6 +82,15 @@ Fixed headers are a popular approach for keeping the primary navigation in close
 Large screens are usually landscape-oriented, meaning less vertical than horizontal space. A fixed header can therefore occupy a significant portion of the content area. Small screens are typically used in a portrait orientation. Whilst this results in more vertical space, because of the overall height of the screen a meaningfully-sized header can still be quite imposing.
 
 Headroom.js allows you to bring elements into view when appropriate, and give focus to your content the rest of the time.
+
+impress.js
+----------
+
+> [https://github.com/bartaz/impress.js](https://github.com/bartaz/impress.js)
+
+	LICENSE: MIT and GPL (version 2 or later)
+
+**impress.js** a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 
 localForage
 -----------
@@ -199,15 +218,28 @@ Mousetrap.bind('up up down down left right left right b a enter', function() {
 });
 ```
 
+PapaParse
+---------
 
-impress.js
-----------
+> [http://papaparse.com/](http://papaparse.com/)
+	
+	LICENSE: MIT
 
-> [https://github.com/bartaz/impress.js](https://github.com/bartaz/impress.js)
+**Papa Parse** (formerly the jQuery Parse Plugin) is a robust and powerful CSV (character-separated values) parser with these features:
 
-	LICENSE: MIT and GPL (version 2 or later)
+- Easy to use
+- Parse CSV files directly (local or over the network)
+- Stream large files (even via HTTP)
+- Reverse parsing (converts JSON to CSV)
+- Auto-detect the delimiter
+- Worker threads to keep your web page reactive
+- Header row support
+- Can convert numbers and booleans to their types
+- Graceful and robust error handling
+- Minor jQuery integration to get files from  `<input type="file">`  elements
 
-**impress.js** a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
+All are optional (except for being easy to use).
+
 
 Recline.js
 ----------
