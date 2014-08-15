@@ -51,6 +51,17 @@ ECharts
 ![logo](../images/logo_echarts.png)
 基于Canvas，纯Javascript图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表。创新的拖拽重计算、数据视图、值域漫游等特性大大增强了用户体验，赋予了用户对数据进行挖掘、整合的能力。
 
+Flot
+----
+
+> [http://www.flotcharts.org](http://www.flotcharts.org/)
+
+	LICENSE: BSD New
+	BROWSER: Internet Explorer 6+, Chrome, Firefox 2+, Safari 3+ and Opera 9.5+
+
+![logo](../images/logo_flot.png)
+**Flot** is a pure JavaScript plotting library for jQuery, with a focus on simple usage, attractive looks and interactive features.
+
 Highcharts
 ----------
 
@@ -59,6 +70,19 @@ Highcharts
 	LICENSE: FREE FOR NON-COMMERCIAL
 
 **Highcharts** is a JavaScript charting library with a huge range of chart options available. The output is rendered using SVG in modern browsers and VML in Internet Explorer. The charts are beautifully animated into view automatically, and the framework also supports live data streams. It's free to download and use non-commercially (and licensable for commercial use). You can also play with the extensive demos using JSFiddle.
+
+Sparklines
+----------
+
+> [http://omnipotent.net/jquery.sparkline/#s-about](http://omnipotent.net/jquery.sparkline/#s-about")
+
+	LICENSE: BSD New
+	BROWSER: Firefox 2+, Safari 3+, Opera 9 and Internet Explorer 6, 7 & 8
+
+jQuery **Sparklines** is a jQuery plugin that generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript.
+
+#### Demos:
+![demo](../images/demo-sparklines.png)
 
 tangle
 ------
