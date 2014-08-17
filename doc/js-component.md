@@ -27,3 +27,16 @@ A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path 
 #### Demo
 
 ![demo](../images/demo_snapjs.gif)
+
+rome
+----
+
+> [http://bevacqua.github.io/rome/](http://bevacqua.github.io/rome/)
+
+	LICENSE: MIT
+
+Customizable date (and time) picker. Opt-in UI, no jQuery!
+
+#### Demo
+
+![demo](../images/demo_rome.png)
