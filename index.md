@@ -1,9 +1,8 @@
-INDEX
-=====
+# INDEX
 
-Javascript
-----------
+## Javascript
 
+* [Angular](doc/js-ng.md)
 * [Chart](doc/js-chart.md)
 * [CSS](doc/js-css.md)
 * [Component](doc/js-component.md)
@@ -14,7 +13,6 @@ Javascript
 * [Mobility](doc/js-mobility.md)
 * [Visualization](doc/js-visualization.md)
 
-CSharp
-------
+## CSharp
 
 * [Machine Learning](doc/cs-ml.md)
