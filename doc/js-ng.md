@@ -1,0 +1,21 @@
+# Angular.js
+
+## Material Design
+
+> [https://material.angularjs.org/](https://material.angularjs.org/)
+
+	LICENSE: MIT
+
+**Material Design** is a specification for a unified system of visual, motion, and interaction design that adapts across different devices.
+
+Our goal is to deliver a lean, lightweight set of AngularJS-native UI elements that implement the material design system for use in Angular SPAs.
+
+This project is still in early preview. It is a complementary effort to the Polymer project's paper elements collection.
+
+## ment.io
+
+> [https://github.com/jeff-collins/ment.io](https://github.com/jeff-collins/ment.io)
+
+	LICENSE: MIT
+
+The **mentio** directive is applied to any element that accepts selectable text input and exposes an ngModel. The mentio directive watches the ngModel of the element for changes. If the user enters a sequence of non-wihtespace characters starting with a trigger character, a typeahead menu appears.

@@ -4,6 +4,7 @@
 
 [Javascript]()
 
+* [Angular](doc/js-ng.md)
 * [Chart](doc/js-chart.md)
 * [CSS](doc/js-css.md)
 * [Component](doc/js-component.md)
