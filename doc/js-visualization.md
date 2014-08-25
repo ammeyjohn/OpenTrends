@@ -1,8 +1,6 @@
-Visualization
-=============
+# Visualization
 
-d3.js
------
+## d3.js
 
 > [http://d3js.org/](http://d3js.org/)
 
@@ -22,8 +20,8 @@ D3 is not a monolithic framework that seeks to provide every conceivable feature
 #### Demos:
 ![demo](../images/demo_d3js.png)
 
-InfoVis Toolkit
----------------
+## InfoVis Toolkit
+
 > [http://philogb.github.io/jit/index.html](http://philogb.github.io/jit/index.html)
 	
 	LICENSE: MIT
@@ -45,8 +43,42 @@ The JavaScript **InfoVis Toolkit** provides tools for creating Interactive Data 
 ![demo](../images/demo_jit_10.png)
 ![demo](../images/demo_jit_11.png)
 
-Processing.js
--------------
+## Matter.js
+
+> [http://brm.io/matter-js/](http://brm.io/matter-js/)
+
+	LICENSE: MIT
+
+**Matter.js** is a JavaScript 2D rigid body physics engine for the web.
+
+#### Features
+
+- Physical properties (mass, area, density etc.)
+- Rigid bodies of any convex polygon
+- Stable stacking and resting
+- Collisions (broad-phase, mid-phase and narrow-phase)
+- Restitution (elastic and inelastic collisions)
+- Conservation of momentum
+- Friction and resistance
+- Constraints
+- Gravity
+- Composite bodies
+- Sleeping and static bodies
+- Events
+- Rounded corners (chamfering)
+- Views (translate, zoom)
+- Collision queries (raycasting, region tests)
+- Time scaling (slow-mo, speed-up)
+- Canvas renderer (supports vectors and textures)
+- WebGL renderer (requires pixi.js)
+- MatterTools for creating, testing and debugging worlds
+- World state serialisation (requires resurrect.js)
+- Cross-browser (Chrome, Firefox, Safari, IE8+)
+- Mobile-compatible (touch, responsive)
+- An original JavaScript physics implementation (not a port)
+
+## Processing.js
+
 > [http://processingjs.org/](http://processingjs.org/)
 	
 	LICENSE: GPL v2
@@ -56,8 +88,8 @@ Processing.js
 ![logo](../images/logo_processing_js.png)
 **Processing.js** is the sister project of the popular Processing visual programming language, designed for the web. Processing.js makes your data visualizations, digital art, interactive animations, educational graphs, video games, etc. work using web standards and without any plug-ins. You write code using the Processing language, include it in your web page, and Processing.js does the rest. It's not magic, but almost.
 
-Protovis
---------
+## Protovis
+
 > [http://mbostock.github.io/protovis/](http://mbostock.github.io/protovis/)
 		
 	LICENSE: BSD
@@ -113,8 +145,8 @@ vis.render();
 
 The rule’s label inherits the data and bottom property, causing it to appear on the rule and render the value (datum) as text. The bar’s label uses the bottom anchor to tweak positioning, so that the label is centered at the bottom of the bar.
 
-Raphaël
--------
+## Raphaël
+
 > [http://raphaeljs.com/](http://raphaeljs.com/)
 		
 	LICENSE: MIT
@@ -142,8 +174,7 @@ circle.attr("stroke", "#fff");
 #### Demos:
 ![demo](../images/demo_raphael.jpg)
 
-snap.svg
---------
+## snap.svg
 
 > [http://snapsvg.io/](http://snapsvg.io/)
 
@@ -160,8 +191,7 @@ Finally, Snap supports animation. By providing a simple and intuitive JavaScript
 
 Snap is 100% free and 100% open-source (released under an Apache 2 license).
 
-three.js
---------
+## three.js
 
 > [http://threejs.org/](http://threejs.org/)
 
@@ -170,8 +200,7 @@ three.js
 
 JavaScript 3D library. The aim of the project is to create a lightweight 3D library with a very low level of complexity — in other words, for dummies. The library provides canvas, svg, CSS3D and WebGL renderers.
 
-vis.js
-------
+## vis.js
 
 > [http://visjs.org/](http://visjs.org/)
 

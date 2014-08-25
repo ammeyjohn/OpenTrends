@@ -1,8 +1,6 @@
-Components
-==========
+# Components
 
-AnimateScroll
--------------
+## AnimateScroll
 
 > [http://plugins.compzets.com/animatescroll/](http://plugins.compzets.com/animatescroll/)
 
@@ -10,8 +8,7 @@ AnimateScroll
 
 **AnimateScroll** is a jQuery plugin which enables you to scroll to any part of the page in style by just calling the animatescroll() function with the Id or Classname of the element where you want to scroll to.
 
-Dropdown Check List
--------------------
+## Dropdown Check List
 
 > [http://www.gcooler.com/uploadfile/favorites/demo/dropdown-check-list.0.9/demo.html](http://www.gcooler.com/uploadfile/favorites/demo/dropdown-check-list.0.9/demo.html)
 
@@ -24,8 +21,7 @@ The **Dropdown Check List** jQuery widget transforms a regular select html eleme
 
 ![demo](../images/demo_dropdown_checklist.png)
 
-FitText.js
-----------
+## FitText.js
 
 > [http://fittextjs.com/](http://fittextjs.com/)
 
@@ -33,8 +29,7 @@ FitText.js
 
 **FitText** makes font-sizes flexible. Use this plugin on your fluid or responsive layout to achieve scalable headlines that fill the width of a parent element.
 
-Freewall
---------
+## Freewall
 
 [https://github.com/kombai/freewall](https://github.com/kombai/freewall)
 
@@ -67,8 +62,15 @@ Freewall
 ![Pinterest-like](../images/demo_freewall_3.png)
 ![Window 8 style](../images/demo_freewall_4.png)
 
-Isotope
--------
+## nanobar.js
+
+> [http://nanobar.micronube.com/](http://nanobar.micronube.com/)
+
+	LICENSE: MIT
+
+Very lightweight progress bars (~630 bytes gzipped). No jQuery needed.
+
+## Isotope
 
 > [http://isotope.metafizzy.co/layout-modes.html](http://isotope.metafizzy.co/layout-modes.html)
 
@@ -80,21 +82,7 @@ Filter & sort magical layouts.
 
 ![demo](../images/demo_isotope.png)
 
-snap.js
--------
-
-> [https://github.com/jakiestfu/Snap.js](https://github.com/jakiestfu/Snap.js)
-
-	LICENSE: MIT
-
-A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)
-
-#### Demo
-
-![demo](../images/demo_snapjs.gif)
-
-rome
-----
+## rome
 
 > [http://bevacqua.github.io/rome/](http://bevacqua.github.io/rome/)
 
@@ -106,8 +94,19 @@ Customizable date (and time) picker. Opt-in UI, no jQuery!
 
 ![demo](../images/demo_rome.png)
 
-stacky
-------
+## snap.js
+
+> [https://github.com/jakiestfu/Snap.js](https://github.com/jakiestfu/Snap.js)
+
+	LICENSE: MIT
+
+A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)
+
+#### Demo
+
+![demo](../images/demo_snapjs.gif)
+
+## stacky
 
 > [https://github.com/niki4810/stacky](https://github.com/niki4810/stacky)
 
@@ -118,3 +117,29 @@ A simple jquery plugin for organizing your container as a stack.
 #### Demo
 
 ![demo](../images/demo_stacky.png)
+
+## tyto
+
+> [http://jh3y.github.io/tyto/](http://jh3y.github.io/tyto/)
+
+	LICENSE: MIT
+
+![logo](../images/logo_tyto.png)
+**tyto** is a completely configurable, extensible and customizable management and organisation tool (wow that's a mouthful!)
+
+![demo](../images/demo_tyto.png)
+
+#### Features
+
+- nice simple user interface for managing and organising
+- no accounts necessary
+- easy to use
+- easy to configure
+- easy to extend and develop
+- localStorage persistence
+- sortable columns and items
+
+![demo](../images/demo_tyto_features.gif)
+
+#### Demo
+

@@ -17,4 +17,6 @@ Javascript
 CSharp
 ------
 
+* [Library](doc/cs-library.md)
 * [Machine Learning](doc/cs-ml.md)
+* [Utility](doc/cs-utility.md)
