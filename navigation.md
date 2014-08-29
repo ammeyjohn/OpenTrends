@@ -1,6 +1,12 @@
 # OpenTrends
 
-[首页](index.md)
+[Home](index.md)
+
+[CSharp]()
+
+* [Library](doc/cs-library.md)
+* [Machine Learning](doc/cs-ml.md)
+* [Utility](doc/cs-utility.md)
 
 [Javascript]()
 
@@ -15,10 +21,9 @@
 * [Mobility](doc/js-mobility.md)
 * [Visualization](doc/js-visualization.md)
 
-[CSharp]()
+[Python]()
 
-* [Library](doc/cs-library.md)
-* [Machine Learning](doc/cs-ml.md)
-* [Utility](doc/cs-utility.md)
+* [Chart](doc/py-chart.md)
+* [Mathematics](doc/py-math.md)
 
 [gimmick: math]()
