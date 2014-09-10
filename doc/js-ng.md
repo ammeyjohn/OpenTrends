@@ -19,3 +19,15 @@ This project is still in early preview. It is a complementary effort to the Poly
 	LICENSE: MIT
 
 The **mentio** directive is applied to any element that accepts selectable text input and exposes an ngModel. The mentio directive watches the ngModel of the element for changes. If the user enters a sequence of non-wihtespace characters starting with a trigger character, a typeahead menu appears.
+
+## ngMorph
+
+> [https://github.com/jimobrien/ngMorph](https://github.com/jimobrien/ngMorph)
+
+	LICENSE: 
+
+This module is an attempt at packaging transitions/animations into directives that enable the reuse of elements by morphing them into other elements. The idea was inspired by Google's Topeka project and a great concept I saw on Codrops. Simply create an originating element and apply the ng-morph-<type> directive to make it morphable. Check out the demo page to see it in action!
+
+#### Demo
+
+![demo](../images/demo_ngmorph.gif)
