@@ -33,6 +33,18 @@ Chartist's goal is to provide a simple, lightweight and non-intrusive library to
 
 Chartist works with inline-SVG and therefore leverages the power of the DOM to provide parts of its functionality. This also means that Chartist is not providing it's own event handling, labels, behaviors and anything else that can just be done with plain HTML, JavaScript and CSS. The single and only responsibility of Chartist is to help you drawing "Simple responsive Charts" using inline-SVG in the DOM, CSS to style and JavaScript to provide an API for configuring your charts.
 
+## Cubism.js
+
+> [http://square.github.io/cubism/](http://square.github.io/cubism/)
+
+	LICENSE: Apache v2.0
+
+**Cubism.js** is a D3 plugin for visualizing time series. Use Cubism to construct better realtime dashboards, pulling data from Graphite, Cube and other sources. Cubism is available under the Apache License on GitHub.
+
+#### Demos
+
+![demo](../images/demo_cubism.png)
+
 ## dygraphs
 
 > [http://dygraphs.com](http://dygraphs.com/)
