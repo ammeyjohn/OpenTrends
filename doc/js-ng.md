@@ -1,5 +1,14 @@
 # Angular.js
 
+## Angular-filter
+
+> [https://github.com/a8m/angular-filter](https://github.com/a8m/angular-filter)
+
+	LICENSE: MIT
+
+Bunch of useful filters for AngularJS (with no external dependencies!) 
+
+
 ## Material Design
 
 > [https://material.angularjs.org/](https://material.angularjs.org/)
