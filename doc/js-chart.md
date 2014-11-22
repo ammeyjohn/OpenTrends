@@ -95,6 +95,15 @@ new Dygraph(div, "ny-vs-sf.txt", {
 ![logo](../images/logo_flot.png)
 **Flot** is a pure JavaScript plotting library for jQuery, with a focus on simple usage, attractive looks and interactive features.
 
+## MetricsGraphics.js
+
+> [http://metricsgraphicsjs.org/](http://metricsgraphicsjs.org/)
+
+	LICENSE: MPL v2.0
+
+![logo](../images/logo_metricsgraphics.svg)
+**MetricsGraphics.js** is a library optimized for visualizing and laying out time-series data. At under 50KB (minified), it provides a simple way to produce common types of graphics in a principled, consistent and responsive way. The library currently supports line charts, scatterplots and histograms as well as features like rug plots and basic linear regression.
+
 ## Highcharts
 
 > [http://www.highcharts.com/](http://www.highcharts.com/)
