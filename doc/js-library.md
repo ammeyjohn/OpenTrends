@@ -92,6 +92,24 @@ impress.js
 
 **impress.js** a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 
+interact.js
+-----------
+
+> [http://interactjs.io/](http://interactjs.io/)
+	
+	LICENSE: MIT
+
+Javascript drag and drop, resizing and gestures for modern desktop and mobile browsers.
+
+#### Awesomeness includes:
+
+- **inertia**
+- **snapping** to a grid, custom anchors or paths.
+- cross browser and device, supporting the **desktop and mobile** versions of Chrome, Firefox and Opera as well as **Internet Explorer 8+**
+- interaction with **SVG** elements
+- being **lightweight and standalone** (not yet another jQuery plugin)
+- **not modifying anything** it doesn't own (except to support IE8 and to change the cursor (but you can disable that))
+
 localForage
 -----------
 
