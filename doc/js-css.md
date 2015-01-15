@@ -8,6 +8,14 @@
 
 **animate.css** is a bunch of cool, fun, and cross-browser animations for you to use in your projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
 
+## Hover.css
+
+> [http://ianlunn.github.io/Hover/](http://ianlunn.github.io/Hover/)
+
+	LICENSE: MIT
+
+A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+
 ## WOW.js
 
 > [http://mynameismatthieu.com/WOW/](http://mynameismatthieu.com/WOW/)
