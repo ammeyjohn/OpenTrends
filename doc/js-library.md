@@ -63,6 +63,13 @@ demo.start();
 
 Since most interactions only involve a single dimension, and then only small adjustments are made to the filter values, incremental filtering and reducing is significantly faster than starting from scratch. Crossfilter uses sorted indexes (and a few bit-twiddling hacks) to make this possible, dramatically increasing the perfor­mance of live histograms and top-K lists. Crossfilter is available under the Apache License.
 
+## FileAPI
+
+> [http://mailru.github.io/FileAPI/](http://mailru.github.io/FileAPI/)
+
+A set of javascript tools for working with files.
+
+
 ## Headroom.js
 
 
