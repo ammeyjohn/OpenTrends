@@ -1,8 +1,6 @@
-Javascript Library
-==================
+# Javascript Library
 
-Async.js
---------
+## Async.js
 
 > [https://github.com/caolan/async](https://github.com/caolan/async)
 
@@ -34,8 +32,8 @@ async.series([
 ]);
 ```
 
-countUp.js
-----------
+## countUp.js
+
 
 > [http://inorganik.github.io/countUp.js/](http://inorganik.github.io/countUp.js/)
 
@@ -55,8 +53,7 @@ var options = {
 var demo = new countUp("myTargetElement", 24.02, 94.62, 2, 2.5, options);
 demo.start();
 ```
-Crossfilter
------------
+## Crossfilter
 
 > [http://square.github.io/crossfilter/](http://square.github.io/crossfilter/)
 
@@ -66,8 +63,8 @@ Crossfilter
 
 Since most interactions only involve a single dimension, and then only small adjustments are made to the filter values, incremental filtering and reducing is significantly faster than starting from scratch. Crossfilter uses sorted indexes (and a few bit-twiddling hacks) to make this possible, dramatically increasing the perfor­mance of live histograms and top-K lists. Crossfilter is available under the Apache License.
 
-Headroom.js
------------
+## Headroom.js
+
 
 > [http://wicky.nillia.ms/headroom.js/](http://wicky.nillia.ms/headroom.js/)
 
@@ -83,8 +80,8 @@ Large screens are usually landscape-oriented, meaning less vertical than horizon
 
 Headroom.js allows you to bring elements into view when appropriate, and give focus to your content the rest of the time.
 
-impress.js
-----------
+## impress.js
+
 
 > [https://github.com/bartaz/impress.js](https://github.com/bartaz/impress.js)
 
@@ -92,8 +89,7 @@ impress.js
 
 **impress.js** a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 
-interact.js
------------
+## interact.js
 
 > [http://interactjs.io/](http://interactjs.io/)
 	
@@ -110,8 +106,7 @@ Javascript drag and drop, resizing and gestures for modern desktop and mobile br
 - being **lightweight and standalone** (not yet another jQuery plugin)
 - **not modifying anything** it doesn't own (except to support IE8 and to change the cursor (but you can disable that))
 
-localForage
------------
+## localForage
 
 > [http://mozilla.github.io/localForage/#localforage](http://mozilla.github.io/localForage/#localforage)
 
@@ -137,8 +132,7 @@ localforage.setItem('key', 'value', doSomethingElse);
 localforage.setItem('key', 'value').then(doSomethingElse);
 ```
 
-math.js
--------
+## math.js
 
 > [http://mathjs.org/](http://mathjs.org/)
 
@@ -183,8 +177,7 @@ math.select(3)
     .done(); // 14
 ```
 
-Mousetrap
----------
+## Mousetrap
 
 > [http://craig.is/killing/mice](http://craig.is/killing/mice)
 
@@ -236,8 +229,7 @@ Mousetrap.bind('up up down down left right left right b a enter', function() {
 });
 ```
 
-PapaParse
----------
+## PapaParse
 
 > [http://papaparse.com/](http://papaparse.com/)
 	
@@ -259,8 +251,7 @@ PapaParse
 All are optional (except for being easy to use).
 
 
-Recline.js
-----------
+## Recline.js
 
 > [http://okfnlabs.org/recline/](http://okfnlabs.org/recline/)
 
@@ -299,8 +290,29 @@ var allInOneDataViewer = new recline.View.MultiView({
 
 ![demo](../images/demo_reclinejs.png)
 
-task.js
--------
+## Sortable
+
+> [http://rubaxa.github.io/Sortable/](http://rubaxa.github.io/Sortable/)
+
+	LICENSE: MIT
+
+**Sortable** — is a minimalist JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React and any CSS library, e.g. Bootstrap.
+
+#### Features
+
+* Supports touch devices and modern browsers
+* Can drag from one list to another or within the same list
+* CSS animation when moving items
+* Supports drag handles and selectable text (better than voidberg's html5sortable)
+* Smart auto-scrolling
+* Built using native HTML5 drag and drop API
+* Supports Meteor and AngularJS
+* Supports any CSS library, e.g. Bootstrap
+* Simple API
+* No jQuery
+
+
+## task.js
 
 > [http://taskjs.org/](http://taskjs.org/)
 
@@ -323,8 +335,16 @@ spawn(function*() {
 
 task.js works with any framework or library that uses the Promises/A spec.
 
-TogetherJS
-----------
+## TheaterJS
+
+> [http://codepen.io/Zhouzi/full/JoRazP/](http://codepen.io/Zhouzi/full/JoRazP/)
+
+	LICENSE: MIT
+
+**TheaterJS** is a typing effect mimicking human behavior.
+
+
+## TogetherJS
 
 > [https://togetherjs.com/](https://togetherjs.com/)
 
