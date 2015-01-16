@@ -318,6 +318,14 @@ var allInOneDataViewer = new recline.View.MultiView({
 
 ![demo](../images/demo_reclinejs.png)
 
+## string.js
+
+> [http://stringjs.com/](http://stringjs.com/)
+
+	LICENSE: MIT
+
+**string.js**, or simply S is a lightweight (< 5 kb minified and gzipped) JavaScript library for the browser or for Node.js that provides extra String methods. Originally, it modified the String prototype. But I quickly learned that in JavaScript, this is considered poor practice.
+
 ## Sortable
 
 > [http://rubaxa.github.io/Sortable/](http://rubaxa.github.io/Sortable/)
