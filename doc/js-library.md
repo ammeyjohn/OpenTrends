@@ -134,6 +134,12 @@ Javascript drag and drop, resizing and gestures for modern desktop and mobile br
 - being **lightweight and standalone** (not yet another jQuery plugin)
 - **not modifying anything** it doesn't own (except to support IE8 and to change the cursor (but you can disable that))
 
+## Intro.js
+
+> [http://usablica.github.io/intro.js/](http://usablica.github.io/intro.js/)
+
+Better introductions for websites and features with a step-by-step guide for your projects.
+
 ## localForage
 
 > [http://mozilla.github.io/localForage/#localforage](http://mozilla.github.io/localForage/#localforage)
@@ -318,6 +324,12 @@ var allInOneDataViewer = new recline.View.MultiView({
 
 ![demo](../images/demo_reclinejs.png)
 
+## javascript-state-machine
+
+> [https://github.com/jakesgordon/javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine)
+
+A finite state machine javascript micro framework.
+
 ## string.js
 
 > [http://stringjs.com/](http://stringjs.com/)
@@ -389,3 +401,11 @@ task.js works with any framework or library that uses the Promises/A spec.
 **TogetherJS** is a service for your website that makes it surprisingly easy to collaborate in real-time.
 
 Using TogetherJS two people can interact on the same page, seeing each other's cursors, edits, and browsing a site together. The TogetherJS service is included by the web site owner, and a web site can customize and configure aspects of TogetherJS's behavior on the site.
+
+## vagueTime.js
+
+> [https://github.com/philbooth/vagueTime.js](https://github.com/philbooth/vagueTime.js)
+
+	LICENSE: MIT
+
+A tiny JavaScript library that formats precise time differences as a vague/fuzzy time. Supports 9 different languages.
