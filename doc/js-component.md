@@ -79,7 +79,7 @@ The **Dropdown Check List** jQuery widget transforms a regular select html eleme
 
 [https://github.com/josdejong/jsoneditor](https://github.com/josdejong/jsoneditor)
 
-	LICENSE: 
+	LICENSE: Apache v2.0
 	BROWSER: Chrome, Firefox, Safari, Opera, Internet Explorer 9+
 
 **JSON Editor** is a web-based tool to view, edit, and format JSON. It has various modes such as a tree editor, a code editor, and a plain text editor.
