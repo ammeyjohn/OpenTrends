@@ -8,6 +8,38 @@
 
 **AnimateScroll** is a jQuery plugin which enables you to scroll to any part of the page in style by just calling the animatescroll() function with the Id or Classname of the element where you want to scroll to.
 
+## CodeMirror
+
+> [http://codemirror.net/](http://codemirror.net/)
+
+	LICENSE: MIT
+	BROWSER: Firefox 4+, Chrome, Safari 5.2+, Internet Explorer 8+, Opera 9+
+
+![logo](../images/logo_codemirror.png)
+**CodeMirror** is a versatile text editor implemented in JavaScript for the browser. It is specialized for editing code, and comes with a number of language modes and addons that implement more advanced editing functionality.
+A rich programming API and a CSS theming system are available for customizing CodeMirror to fit your application, and extending it with new functionality.
+
+#### Features
+
+- Support for over 60 languages out of the box
+- A powerful, composable language mode system
+- Autocompletion (XML)
+- Code folding
+- Configurable keybindings
+- Vim, Emacs, and Sublime Text bindings
+- Search and replace interface
+- Bracket and tag matching
+- Support for split views
+- Linter integration
+- Mixing font sizes and styles
+- Various themes
+- Able to resize to fit content
+- Inline and block widgets
+- Programmable gutters
+- Making ranges of text styled, read-only, or atomic
+- Bi-directional text support
+- Many other methods and addons...
+
 ## Dropdown Check List
 
 > [http://www.gcooler.com/uploadfile/favorites/demo/dropdown-check-list.0.9/demo.html](http://www.gcooler.com/uploadfile/favorites/demo/dropdown-check-list.0.9/demo.html)
