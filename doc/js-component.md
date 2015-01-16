@@ -75,6 +75,43 @@ The **Dropdown Check List** jQuery widget transforms a regular select html eleme
 
 ![Demo](../images/demo_handsontable.png)
 
+## jsoneditor
+
+[https://github.com/josdejong/jsoneditor](https://github.com/josdejong/jsoneditor)
+
+	LICENSE: 
+	BROWSER: Chrome, Firefox, Safari, Opera, Internet Explorer 9+
+
+**JSON Editor** is a web-based tool to view, edit, and format JSON. It has various modes such as a tree editor, a code editor, and a plain text editor.
+
+The editor can be used as a component in your own web application. The library can be loaded as CommonJS module, AMD module, or as a regular javascript file.
+
+#### Features
+
+#### Tree editor
+
+- Edit, add, move, remove, and duplicate fields and values.
+- Change type of values.
+- Sort arrays and objects.
+- Colorized code.
+- Search & highlight text in the treeview.
+- Undo and redo all actions.
+
+#### Code editor
+
+- Format and compact JSON.
+- Colorized code (powered by Ace).
+- Inspect JSON (powered by Ace).
+
+#### Text editor
+
+- Format and compact JSON.
+
+#### Demo
+
+![Demo](../images/demo_jsoneditor_1.png)
+![Demo](../images/demo_jsoneditor_2.png)
+
 ## nanobar.js
 
 > [http://nanobar.micronube.com/](http://nanobar.micronube.com/)
