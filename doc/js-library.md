@@ -140,6 +140,20 @@ Javascript drag and drop, resizing and gestures for modern desktop and mobile br
 
 Better introductions for websites and features with a step-by-step guide for your projects.
 
+## keymaster
+
+> [https://github.com/madrobby/keymaster](https://github.com/madrobby/keymaster)
+
+	LICENSE: MIT
+
+A simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies.
+
+#### Supported keys
+
+**Keymaster** understands the following modifiers: `⇧`, `shift`, `option`, `⌥`, `alt`, `ctrl`, `control`, `command`, and `⌘`.
+
+The following special keys can be used for shortcuts: `backspace`, `tab`, `clear`, `enter`, `return`, `esc`, `escape`, `space`, `up`, `down`, `left`, `right`, `home`, `end`, `pageup`, `pagedown`, `del`, `delete` and `f1` through `f19`.
+
 ## localForage
 
 > [http://mozilla.github.io/localForage/#localforage](http://mozilla.github.io/localForage/#localforage)
@@ -359,12 +373,26 @@ A finite state machine javascript micro framework.
 * Simple API
 * No jQuery
 
+## store.js
+
+> [https://github.com/marcuswestin/store.js](https://github.com/marcuswestin/store.js)
+
+	LICENSE: MIT
+
+localStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood [http://twitter.com/marcuswestin](http://twitter.com/marcuswestin)
+
+#### Unsupported browsers
+
+- Firefox 1.0: no means (beside cookies and flash)
+- Safari 2: no means (beside cookies and flash)
+- Safari 3: no synchronous api (has asynch sqlite api, but store.js is synch)
+- Opera 9: don't know if there is synchronous api for storing data locally
+- Firefox 1.5: don't know if there is synchronous api for storing data locally
+- Microsoft IIS & IE7: With meta tag & "charset=iso-8859-1", things stop working. See issue #47.
 
 ## task.js
 
-> [http://taskjs.org/](http://taskjs.org/)
-
-	LICENSE: 
+> [http://taskjs.org/](http://taskjs.org/)	
 
 ![logo](../images/logo_taskjs.png)
 **task.js** is an experimental library for ES6 that makes sequential, blocking I/O simple and beautiful, using the power of JavaScript’s new yield operator.
