@@ -61,9 +61,17 @@ The **Dropdown Check List** jQuery widget transforms a regular select html eleme
 
 **FitText** makes font-sizes flexible. Use this plugin on your fluid or responsive layout to achieve scalable headlines that fill the width of a parent element.
 
+## Flickity
+
+> [http://flickity.metafizzy.co/](http://flickity.metafizzy.co/)
+
+	LICENSE: GPL v3
+
+Touch, responsive, flickable galleries.
+
 ## Freewall
 
-[https://github.com/kombai/freewall](https://github.com/kombai/freewall)
+> [https://github.com/kombai/freewall](https://github.com/kombai/freewall)
 
 	LICENSE: MIT
 	BROWSER: Chrome, Opera, Safari, IE 8.0+, Firefox
