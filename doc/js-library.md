@@ -140,6 +140,14 @@ Javascript drag and drop, resizing and gestures for modern desktop and mobile br
 
 Better introductions for websites and features with a step-by-step guide for your projects.
 
+## is.js
+
+> [http://arasatasaygin.github.io/is.js/](http://arasatasaygin.github.io/is.js/)
+
+	LICENSE: MIT
+
+Micro check library.
+
 ## keymaster
 
 > [https://github.com/madrobby/keymaster](https://github.com/madrobby/keymaster)

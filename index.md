@@ -17,6 +17,7 @@
 * [Machine Learning](doc/js-ml.md)
 * [Map](doc/js-map.md)
 * [Mobility](doc/js-mobility.md)
+* [Standalone Page](doc/js-page.md)
 * [Visualization](doc/js-visualization.md)
 
 ## Python
