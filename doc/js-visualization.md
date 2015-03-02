@@ -1,12 +1,124 @@
 # Visualization
 
+## Babylon.js
+
+> [http://www.babylonjs.com/](http://www.babylonjs.com/)
+
+    LICENSE: Apache v2.0
+    
+**Babylon.js** is a 3D engine based on webgl and javascript. 
+
+#### Features
+
+* Complete scene graph with lights, cameras, materials and meshes
+* Collisions engine
+* Physics engine (thanks to oimo.js)
+* Scene picking
+* Antialiasing
+* Animations engine
+* Audio engine
+* Particles Systems
+* Sprites and 2D layers
+* Optimizations engines:
+    * Frustum clipping
+    * Sub-meshes clipping
+    * Hardware scaling
+    * Selection octrees
+    * Offline mode via IndexedDB (Assets are saved locally to prevent reloading them)
+    * Incremental loading
+    * Binary compressed format
+    * Hardware accelerated instances
+    * Level of details (LOD)
+    * Automatic scene optimizer
+    * Debug layer to help you optimize and debug scenes
+* Standard material is a per pixel material that supports:
+    * Diffuse lightning and texture
+    * Ambient lightning and texture
+    * Specular lightning
+    * Opacity texture
+    * Reflection texture (Spheric, planar, cubic and projection)
+    * Mirror texture
+    * Emissive texture
+    * Specular texture
+    * Bump texture
+    * Fresnel term for diffuse, opacity, emissive and reflection
+    * Up to 4 lights (points, directionals, spots, hemispherics)
+    * Custom materials
+    * Custom shaders
+    * Skybox
+    * Vertex color
+    * Bones (Animations and shadows are supported)
+    * Procedural textures
+* Special FX
+    * Fog
+    * Alpha blending
+    * Alpha testing
+    * Billboarding
+    * Fullscreen mode
+    * Shadow Maps and Variance Shadow Maps
+    * Rendering layers
+    * Post-processes (blur, refraction, black'n'white, fxaa, customs...)
+    * SSAO
+    * Volumetric Light Scattering
+    * Lens flares
+    * Multi-views
+* Textures:
+    * Render target textures
+    * Dynamic textures (canvas)
+    * Video textures
+    * Compressed (DDS) textures
+    * TGA textures
+* Cameras (Perspective and orthographic):
+    * Arc rotate camera
+    * Free camera
+    * Touch camera
+    * Anaglyph camera
+    * Virtual Joysticks camera
+    * Oculus Rift camera
+    * Gamepad camera
+    * VR Device Oriention camera
+    * WebVR camera
+    * Follow camera
+* Meshes:
+    * Mesh cloning
+    * Dynamic meshes
+    * Height maps
+    * Constructive solid geometries
+    * Hardware instances
+* Import:
+	* Babylon scene file can be converted from .OBJ, .FBX
+	* Exporter for Blender
+	* Exporter for Cheetah3d
+	* Exporter for 3ds Max
+	* Assets manager
+
+## Crafty
+
+> [http://craftyjs.com/](http://craftyjs.com/)
+
+![logo](../images/logo_craftyjs.png)
+**Crafty** is a JavaScript game library that can help you create games in a structured way…
+
+Key Features:
+
+* Entities & Components - A clean and decoupled way to organize game elements. No inheritance needed!
+* Eventbinding - Event system for custom events that can be triggered whenever, whatever and bound just as easily.
+* No dom manipulation or custom drawing routines required.
+
+Other Goodies:
+
+* Thriving community - Help is readily available in the forum.
+* Community modules - A growing collection of user-generated code you can use.
+* Pure JavaScript - No magic. Works in all major browsers and can be combined with your favorite js library.
+
+
 ## d3.js
 
 > [http://d3js.org/](http://d3js.org/)
 
-	LICENSE: BSD
-	BROWSER: IE6+, Firefox2+, Safari3+, Opera9.5+
-	TAG: SVG
+    LICENSE: BSD
+    BROWSER: IE6+, Firefox2+, Safari3+, Opera9.5+
+    TAG: SVG
 
 ![logo](../images/logo_d3js.png)
 **D3.js** is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
@@ -23,10 +135,10 @@ D3 is not a monolithic framework that seeks to provide every conceivable feature
 ## InfoVis Toolkit
 
 > [http://philogb.github.io/jit/index.html](http://philogb.github.io/jit/index.html)
-	
-	LICENSE: MIT
-	BROWSER: IE6+, Firefox2+, Safari3+, Opera9.5+
-	TAG: Canvas
+    
+    LICENSE: MIT
+    BROWSER: IE6+, Firefox2+, Safari3+, Opera9.5+
+    TAG: Canvas
 
 The JavaScript **InfoVis Toolkit** provides tools for creating Interactive Data Visualizations for the Web.
 
@@ -47,7 +159,7 @@ The JavaScript **InfoVis Toolkit** provides tools for creating Interactive Data 
 
 > [http://brm.io/matter-js/](http://brm.io/matter-js/)
 
-	LICENSE: MIT
+    LICENSE: MIT
 
 **Matter.js** is a JavaScript 2D rigid body physics engine for the web.
 
@@ -77,13 +189,50 @@ The JavaScript **InfoVis Toolkit** provides tools for creating Interactive Data 
 - Mobile-compatible (touch, responsive)
 - An original JavaScript physics implementation (not a port)
 
+## Phaser
+
+> [http://phaser.io/](http://phaser.io/)
+
+	LICENSE: MIT
+
+![logo](../images/logo_phaser.jpeg)
+**Phaser** is a fast, free and fun open source HTML5 game framework. It uses Pixi.js for WebGL and Canvas rendering across desktop and mobile web browsers. Games can be compiled to iOS and Android apps via 3rd party tools.
+
+Along with the fantastic open source community Phaser is actively developed and maintained by Photon Storm Limited. As a result of rapid support and a developer friendly API Phaser is currently one of the most starred game frameworks on Github.
+
+Thousands of developers worldwide use it. From indies and multi-national digital agencies to schools and Universities. Each creating their own incredible games. Grab the source and join in the fun!
+
+#### Demo
+![demo](../images/demo_phaser.png)
+
+
+## PhysicsJS
+
+> [http://wellcaffeinated.net/PhysicsJS/](http://wellcaffeinated.net/PhysicsJS/)
+
+	LICENSE: MIT
+
+A modular, extendable, and easy-to-use physics engine for javascript.
+
+## pxix.js
+
+> [https://github.com/GoodBoyDigital/pixi.js](https://github.com/GoodBoyDigital/pixi.js)
+
+	LICENSE: MIT
+
+![logo](../images/logo_pixijs.png)
+The aim of this project is to provide a fast lightweight 2D library that works across all devices. The **Pixi** renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of webGL. Also, it's fast.
+
+#### Demo
+![demo](../images/demo_pixijs.jpeg)
+
 ## Processing.js
 
 > [http://processingjs.org/](http://processingjs.org/)
-	
-	LICENSE: GPL v2
-	BROWSER: Safari, Firefox, Chrome, Opera, IE
-	TAG: Canvas
+    
+    LICENSE: GPL v2
+    BROWSER: Safari, Firefox, Chrome, Opera, IE
+    TAG: Canvas
 
 ![logo](../images/logo_processing_js.png)
 **Processing.js** is the sister project of the popular Processing visual programming language, designed for the web. Processing.js makes your data visualizations, digital art, interactive animations, educational graphs, video games, etc. work using web standards and without any plug-ins. You write code using the Processing language, include it in your web page, and Processing.js does the rest. It's not magic, but almost.
@@ -91,10 +240,10 @@ The JavaScript **InfoVis Toolkit** provides tools for creating Interactive Data 
 ## Protovis
 
 > [http://mbostock.github.io/protovis/](http://mbostock.github.io/protovis/)
-		
-	LICENSE: BSD
-	BROWSER: Firefox 3, Chrome and Safari 4
-	TAG: SVG
+        
+    LICENSE: BSD
+    BROWSER: Firefox 3, Chrome and Safari 4
+    TAG: SVG
 
 **Protovis** composes custom views of data with simple marks such as bars and dots. Unlike low-level graphics libraries that quickly become tedious for visualization, Protovis defines marks through dynamic properties that encode data, allowing inheritance, scales and layouts to simplify construction.
 
@@ -148,10 +297,10 @@ The rule’s label inherits the data and bottom property, causing it to appear o
 ## Raphaël
 
 > [http://raphaeljs.com/](http://raphaeljs.com/)
-		
-	LICENSE: MIT
-	BROWSER: Firefox 3.0+, Safari 3.0+, Chrome 5.0+, Opera 9.5+ and Internet Explorer 6.0+
-	TAG: SVG, VML
+        
+    LICENSE: MIT
+    BROWSER: Firefox 3.0+, Safari 3.0+, Chrome 5.0+, Opera 9.5+ and Internet Explorer 6.0+
+    TAG: SVG, VML
 
 ![logo](../images/logo_raphael.png)
 **Raphaël** is a small JavaScript library that should simplify your work with vector graphics on the web. If you want to create your own specific chart or image crop and rotate widget, for example, you can achieve it simply and easily with this library.
@@ -178,7 +327,7 @@ circle.attr("stroke", "#fff");
 
 > [http://snapsvg.io/](http://snapsvg.io/)
 
-	LICENSE: Apache v2.0
+    LICENSE: Apache v2.0
 
 ![logo](../images/logo_snapsvg.png)
 **Snap.svg** is a brand new JavaScript library for working with SVG. Snap provides web developers with a clean, streamlined, intuitive, and powerful API for animating and manipulating both existing SVG content, and SVG content generated with Snap.
@@ -195,8 +344,8 @@ Snap is 100% free and 100% open-source (released under an Apache 2 license).
 
 > [http://threejs.org/](http://threejs.org/)
 
-	LICENSE: MIT
-	TAG: CANVAS, SVG, CSS3D, WEBGL
+    LICENSE: MIT
+    TAG: CANVAS, SVG, CSS3D, WEBGL
 
 JavaScript 3D library. The aim of the project is to create a lightweight 3D library with a very low level of complexity — in other words, for dummies. The library provides canvas, svg, CSS3D and WebGL renderers.
 
@@ -204,7 +353,7 @@ JavaScript 3D library. The aim of the project is to create a lightweight 3D libr
 
 > [http://visjs.org/](http://visjs.org/)
 
-	LICENSE: Apache v2.0
+    LICENSE: Apache v2.0
 
 ![logo](../images/logo_visjs.png)
 **Vis.js** is a dynamic, browser based visualization library. The library is designed to be easy to use, to handle large amounts of dynamic data, and to enable manipulation of and interaction with the data. The library consists of the components DataSet, Timeline, Network, Graph2d, and Graph3d.
