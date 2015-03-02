@@ -16,6 +16,7 @@
 * [Library](doc/js-library.md)
 * [Machine Learning](doc/js-ml.md)
 * [Map](doc/js-map.md)
+* [Media](doc/js-media.md)
 * [Mobility](doc/js-mobility.md)
 * [Standalone Page](doc/js-page.md)
 * [Visualization](doc/js-visualization.md)
