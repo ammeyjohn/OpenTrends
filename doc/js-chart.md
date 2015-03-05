@@ -45,6 +45,28 @@ Chartist works with inline-SVG and therefore leverages the power of the DOM to p
 
 ![demo](../images/demo_cubism.png)
 
+## dc.js
+
+> [http://dc-js.github.io/dc.js/](http://dc-js.github.io/dc.js/)
+
+	LICENSE: Apache v2.0
+
+![logo](../images/logo_dc.png)
+**dc.js** is a javascript charting library with native crossfilter support and allowing highly efficient exploration on large multi-dimensional dataset (inspired by crossfilter's demo). It leverages d3 engine to render charts in css friendly svg format. Charts rendered using dc.js are naturally data driven and reactive therefore providing instant feedback on user's interaction. The main objective of this project is to provide an easy yet powerful javascript library which can be utilized to perform data visualization and analysis in browser as well as on mobile device.
+
+## dimple
+
+> [http://dimplejs.org/](http://dimplejs.org/)
+
+	LICENSE: MIT
+	
+**Dimple** is an object-oriented API allowing you to create flexible axis-based charts using d3.js.
+
+The intention of this project is to allow analysts who are not necessarily expert JavaScript programmers to create standard (and some not-so-standard) business analytics.
+
+The API will also expose the core d3 objects where possible so that as users gain confidence they can extend the base functionality in whatever way they wish.
+
+
 ## dygraphs
 
 > [http://dygraphs.com](http://dygraphs.com/)
@@ -85,6 +107,16 @@ new Dygraph(div, "ny-vs-sf.txt", {
 ![logo](../images/logo_echarts.png)
 基于Canvas，纯Javascript图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表。创新的拖拽重计算、数据视图、值域漫游等特性大大增强了用户体验，赋予了用户对数据进行挖掘、整合的能力。
 
+## Epoch
+
+> [http://fastly.github.io/epoch/](http://fastly.github.io/epoch/)
+
+	LICENSE: MIT
+
+**Epoch** is a general purpose charting library for application developers and visualization designers. It focuses on two different aspects of visualization programming: basic charts for creating historical reports, and real-time charts for displaying frequently updating timeseries data.
+
+![demo](../images/demo_epoch.png)
+
 ## Flot
 
 > [http://www.flotcharts.org](http://www.flotcharts.org/)
@@ -104,6 +136,15 @@ new Dygraph(div, "ny-vs-sf.txt", {
 ![logo](../images/logo_metricsgraphics.svg)
 **MetricsGraphics.js** is a library optimized for visualizing and laying out time-series data. At under 50KB (minified), it provides a simple way to produce common types of graphics in a principled, consistent and responsive way. The library currently supports line charts, scatterplots and histograms as well as features like rug plots and basic linear regression.
 
+## NVD3
+
+> [http://nvd3.org/index.html](http://nvd3.org/index.html)
+
+	LICENSE: Apache v2.0
+	BROWSER: Chrome, Opera 15+, Safari, Firefox, IE 10+
+	
+**NVD3** is an attempt to build re-usable charts and chart components for d3.js without taking away the power that d3.js gives you. This is a very young collection of components, with the goal of keeping these components very customizeable, staying away from your standard cookie cutter solutions.
+
 ## Highcharts
 
 > [http://www.highcharts.com/](http://www.highcharts.com/)
@@ -111,6 +152,16 @@ new Dygraph(div, "ny-vs-sf.txt", {
 	LICENSE: FREE FOR NON-COMMERCIAL
 
 **Highcharts** is a JavaScript charting library with a huge range of chart options available. The output is rendered using SVG in modern browsers and VML in Internet Explorer. The charts are beautifully animated into view automatically, and the framework also supports live data streams. It's free to download and use non-commercially (and licensable for commercial use). You can also play with the extensive demos using JSFiddle.
+
+## jsPlumb
+
+> [https://jsplumbtoolkit.com](https://jsplumbtoolkit.com)
+
+	LICENSE: MIT and GPLv2
+	TAG: SVG, Canvas
+
+**jsPlumb** provides a means for a developer to visually connect elements on their web pages. It uses SVG or Canvas in modern browsers, and VML on IE 8 and below. The latest version is 1.7.3; this will be the final version (apart from bugfix releases in 1.7.x) to support IE8. The next major release will be 2.0.0, and this will work only in modern browsers that support SVG.
+
 
 ## Sparklines
 
