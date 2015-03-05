@@ -1,8 +1,6 @@
-Framework
-=========
+# Framework
 
-Sea.js
-------
+## Sea.js
 
 > [http://seajs.org/docs/](http://seajs.org/docs/)
 
