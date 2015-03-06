@@ -21,6 +21,7 @@
 * [Media](doc/js-media.md)
 * [Mobility](doc/js-mobility.md)
 * [Standalone Page](doc/js-page.md)
+* [UI Framework](doc/js-ui.md)
 * [Visualization](doc/js-visualization.md)
 
 [Python]()
