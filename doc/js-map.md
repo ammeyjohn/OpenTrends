@@ -45,6 +45,10 @@ A JavaScript library for creating interactive maps based on Kartograph.py SVG ma
 - Built on top of Raphaël and jQuery
 - Licensed under LGPL
 
+## Demo
+
+![demo](../images/demo_kartograph.png)
+
 Leaflet
 -------
 > [http://leafletjs.com/](http://leafletjs.com/)
