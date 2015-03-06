@@ -84,15 +84,41 @@ demo.start();
 
 Since most interactions only involve a single dimension, and then only small adjustments are made to the filter values, incremental filtering and reducing is significantly faster than starting from scratch. Crossfilter uses sorted indexes (and a few bit-twiddling hacks) to make this possible, dramatically increasing the perfor­mance of live histograms and top-K lists. Crossfilter is available under the Apache License.
 
+## dropcap.js
+
+> [http://webplatform.adobe.com/dropcap.js/](http://webplatform.adobe.com/dropcap.js/)
+
+	LICENSE: Apache v2.0
+	BROWSER: IE10+, Firefox, Chrome, Safari
+
+![logo](../images/logo_adobe.png)
+**dropcap.js** makes beautiful drop caps easy for the web.
+
+#### Demo
+
+![demo](../images/demo_dropcap.png)
+
 ## FileAPI
 
 > [http://mailru.github.io/FileAPI/](http://mailru.github.io/FileAPI/)
 
 A set of javascript tools for working with files.
 
+## FlowType.JS
+
+> [http://simplefocus.com/flowtype/](http://simplefocus.com/flowtype/)
+
+	LICENSE: MIT
+	
+#### What does FlowType.JS do?
+
+Ideally, the most legible typography contains between 45 and 75 characters per line. This is difficult to accomplish for all screen widths with only CSS media-queries. FlowType.JS eases this difficulty by changing the font-size and subsequently the line-height based on a specific element's width. This allows for a perfect character count per line at any screen width.
+
+Additional options, reviewed below, allow you to configure FlowType.JS to fit your needs. These options include element size thresholds, font-size thresholds and ratios. The element size thresholds will stop FlowType.JS from performing its magic once the element reaches beyond specific pixel dimensions. The font-size thresholds will stop FlowType.JS from resizing the text beyond certain font-sizes. Lastly, you have full control over the base font-size, so that you can set your typography perfectly.
+
+**FlowType.JS** is extremely easy to use. Visit the getting started section, follow the four easy steps and you will be on well on your way to performing magic.
 
 ## Headroom.js
-
 
 > [http://wicky.nillia.ms/headroom.js/](http://wicky.nillia.ms/headroom.js/)
 
@@ -310,19 +336,6 @@ Mousetrap.bind('up up down down left right left right b a enter', function() {
 
 All are optional (except for being easy to use).
 
-## QuaggaJS
-
-> [https://github.com/serratus/quaggaJS](https://github.com/serratus/quaggaJS)
-
-	LICENSE: 
-
-![logo](../images/logo_quaggajs.png)
-**QuaggaJS** is a barcode-scanner entirely written in JavaScript supporting real-time localization and decoding of various types of barcodes such as EAN and CODE128. The library is also capable of using getUserMedia to get direct access to the user's camera stream. Although the code relies on heavy image-processing even recent smartphones are capable of locating and decoding barcodes in real-time. Try some [examples](http://serratus.github.io/quaggaJS/examples) and check out the blog post  if you want to dive deeper into this topic.
-
-![demo](../images/demo_quaggajs_1.png)
-![demo](../images/demo_quaggajs_2.png)
-
-
 ## Recline.js
 
 > [http://okfnlabs.org/recline/](http://okfnlabs.org/recline/)
@@ -376,26 +389,15 @@ A finite state machine javascript micro framework.
 
 **string.js**, or simply S is a lightweight (< 5 kb minified and gzipped) JavaScript library for the browser or for Node.js that provides extra String methods. Originally, it modified the String prototype. But I quickly learned that in JavaScript, this is considered poor practice.
 
-## Sortable
+## SideComments.js
 
-> [http://rubaxa.github.io/Sortable/](http://rubaxa.github.io/Sortable/)
+> [http://aroc.github.io/side-comments-demo](http://aroc.github.io/side-comments-demo/#header)
 
 	LICENSE: MIT
+	
+**SideComments.js** is a UI component to give you Medium.com style comment management on the front-end. It allows users to comment directly on sections of content rather than the boring comment stream on the bottom of the page that we're so used to.
 
-**Sortable** — is a minimalist JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React and any CSS library, e.g. Bootstrap.
-
-#### Features
-
-* Supports touch devices and modern browsers
-* Can drag from one list to another or within the same list
-* CSS animation when moving items
-* Supports drag handles and selectable text (better than voidberg's html5sortable)
-* Smart auto-scrolling
-* Built using native HTML5 drag and drop API
-* Supports Meteor and AngularJS
-* Supports any CSS library, e.g. Bootstrap
-* Simple API
-* No jQuery
+**Note:** This component only handles the display / user interface of how your comments are presented. It does not provide any utilities to help manage storing or retreiving your comment data from your server, how you do that is entirely up to you. Check out the integrations section for resources related to back-end integration.
 
 ## store.js
 

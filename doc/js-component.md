@@ -172,6 +172,18 @@ Filter & sort magical layouts.
 
 ![demo](../images/demo_isotope.png)
 
+## QuaggaJS
+
+> [https://github.com/serratus/quaggaJS](https://github.com/serratus/quaggaJS)
+
+	LICENSE: 
+
+![logo](../images/logo_quaggajs.png)
+**QuaggaJS** is a barcode-scanner entirely written in JavaScript supporting real-time localization and decoding of various types of barcodes such as EAN and CODE128. The library is also capable of using getUserMedia to get direct access to the user's camera stream. Although the code relies on heavy image-processing even recent smartphones are capable of locating and decoding barcodes in real-time. Try some [examples](http://serratus.github.io/quaggaJS/examples) and check out the blog post  if you want to dive deeper into this topic.
+
+![demo](../images/demo_quaggajs_1.png)
+![demo](../images/demo_quaggajs_2.png)
+
 ## rome
 
 > [http://bevacqua.github.io/rome/](http://bevacqua.github.io/rome/)
@@ -219,6 +231,27 @@ A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path 
 #### Demo
 
 ![demo](../images/demo_snapjs.gif)
+
+## Sortable
+
+> [http://rubaxa.github.io/Sortable/](http://rubaxa.github.io/Sortable/)
+
+	LICENSE: MIT
+
+**Sortable** — is a minimalist JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React and any CSS library, e.g. Bootstrap.
+
+#### Features
+
+* Supports touch devices and modern browsers
+* Can drag from one list to another or within the same list
+* CSS animation when moving items
+* Supports drag handles and selectable text (better than voidberg's html5sortable)
+* Smart auto-scrolling
+* Built using native HTML5 drag and drop API
+* Supports Meteor and AngularJS
+* Supports any CSS library, e.g. Bootstrap
+* Simple API
+* No jQuery
 
 ## stacky
 
