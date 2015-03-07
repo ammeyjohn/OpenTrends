@@ -265,6 +265,14 @@ A simple jquery plugin for organizing your container as a stack.
 
 ![demo](../images/demo_stacky.png)
 
+## TimelineJS
+
+> [http://timeline.knightlab.com/](http://timeline.knightlab.com/)
+
+	LICENSE: MPL v2.0
+
+**TimelineJS** is an open-source tool that enables you to build visually-rich interactive timelines and is available in 40 languages.
+
 ## tyto
 
 > [http://jh3y.github.io/tyto/](http://jh3y.github.io/tyto/)

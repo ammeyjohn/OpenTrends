@@ -1,8 +1,6 @@
-Map
-===
+# Map
 
-heatmap.js
-----------
+## heatmap.js
 
 > [http://www.patrick-wied.at/static/heatmapjs/](http://www.patrick-wied.at/static/heatmapjs/)
 
@@ -25,8 +23,18 @@ The new support license will secure you the premium support you deserve
 
 ![](../images/demo_heatmapjs.png)
 
-Kartograph
-----------
+## JuxtaposeJS
+
+> [http://juxtapose.knightlab.com/](http://juxtapose.knightlab.com/)
+
+	LICENSE: MPL v2.0
+	
+**JuxtaposeJS** helps storytellers compare two pieces of similar media, including photos, and gifs. It’s ideal for highlighting then/now stories that explain slow changes over time (grown of a city skyline, regrowth of a forest, etc.) or before/after stories that show the impact of single dramatic events (natural disasters, protests, wars, etc.).
+
+It is free, easy to use, and works on all devices. All you need to get started are links to the images you'd like to compare.
+
+
+## Kartograph
 
 > [http://kartograph.org/](http://kartograph.org/)
 
@@ -36,21 +44,12 @@ Kartograph
 **Kartograph** is a simple and lightweight framework for building interactive map applications without Google Maps or any other mapping service. It was created with the needs of designers and data journalists in mind.
 Actually, Kartograph is two libraries. One generates beautiful & compact SVG maps; the other helps you to create interactive maps that run across all major browsers.
 
-#### Kartograph.js
-A JavaScript library for creating interactive maps based on Kartograph.py SVG maps.
-
-- Easy to use: create an interactve map within minutes.
-- Runs 100% stand-alone. No server needed.
-- Gracefully degrades to Internet Explorer 7+
-- Built on top of Raphaël and jQuery
-- Licensed under LGPL
-
-## Demo
+#### Demo
 
 ![demo](../images/demo_kartograph.png)
 
-Leaflet
--------
+## Leaflet
+
 > [http://leafletjs.com/](http://leafletjs.com/)
 	
 	LICENSE: MIT
@@ -78,8 +77,7 @@ L.marker([51.5, -0.09]).addTo(map)
 ```
 ![demo](../images/demo_leafletjs.png)
 
-OpenLayers
-----------
+## OpenLayers
 
 > [http://openlayers.org/](http://openlayers.org/)
 
@@ -89,8 +87,7 @@ OpenLayers
 ![logo](../images/logo_openlayers.png)
 **OpenLayers** makes it easy to put a dynamic map in any web page. It can display map tiles and markers loaded from any source. OpenLayers has been developed to further the use of geographic information of all kinds. OpenLayers is completely free, Open Source JavaScript, released under the 2-clause BSD License (also known as the FreeBSD).
 
-Polymaps
---------
+## Polymaps
 
 > [http://polymaps.org/](http://polymaps.org/)
 
@@ -104,3 +101,24 @@ Because Polymaps can load data at a full range of scales, it’s ideal for showi
 #### Demos
 
 ![demo](../images/demo_polymaps.png)
+
+## StoryMapJS
+
+> [http://storymap.knightlab.com/](http://storymap.knightlab.com/)
+
+	LICENSE: MIT
+
+**StoryMapJS** is a free tool to help you tell stories on the web that highlight the locations of a series of events. It is a new tool, yet stable in our development environment, and it has a friendly authoring tool. It has two significant, related features:
+
+**Gigapixel**
+
+StoryMapJS can tell stories with large photographs, works of art, historic maps, and other image files. Because it works best with pixel-dense files, we call these "gigapixel" StoryMaps. Learn more.
+
+**SnapMap**
+
+SnapMap is a tool to help you quickly create a StoryMap. It places your 20 most recent geo-tagged Instagrams on a map that can be shared instantly. You can also edit it in StoryMap's authoring tool, adding media from other sources.
+
+We welcome feedback and bug reports: you can use our support forum to post questions, or email support@knightlab.zendesk.com.
+
+StoryMapJS is open source and offered under the MIT license.
+
