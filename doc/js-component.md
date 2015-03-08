@@ -49,9 +49,20 @@ A rich programming API and a CSS theming system are available for customizing Co
 
 The **Dropdown Check List** jQuery widget transforms a regular select html element into a dropdown checkbox list. The plugin is hosted on google code.
 
-#### Demos:
+#### Demos
 
 ![demo](../images/demo_dropdown_checklist.png)
+
+## Dynatable
+
+> [http://www.dynatable.com/](http://www.dynatable.com/)
+
+	LICENSE: GPL
+
+![logo](../images/logo_dynatable.png)
+A funner, semantic, HTML5+JSON, interactive table plugin.
+
+The purpose of Dynatable is to provide a simple, extensible API, which makes viewing and interacting with larger datasets easy. Dynatable provides a framework for implementing the most common elements out of the box, including sorting, searching and filtering. Above all, I wanted a clean and elegant API that is fun to use.
 
 ## FitText.js
 
@@ -264,6 +275,25 @@ A simple jquery plugin for organizing your container as a stack.
 #### Demo
 
 ![demo](../images/demo_stacky.png)
+
+## DataTables
+
+> [http://www.datatables.net/](http://www.datatables.net/)
+
+	LICENSE: MIT
+
+**DataTables** is a plug-in for the jQuery Javascript library. It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.
+
+* Pagination, instant search and multi-column ordering
+* Supports almost any data source:
+* DOM, Javascript, Ajax and server-side processing
+* Easily theme-able: DataTables, jQuery UI, Bootstrap, Foundation
+* Wide variety of extensions inc. Editor, TableTools, FixedColumns and more
+* Extensive options and a beautiful, expressive API
+* Fully internationalisable
+* Professional quality: backed by a suite of 2900+ unit tests
+* Free open source software (MIT license)! Commercial support available.
+
 
 ## TimelineJS
 
