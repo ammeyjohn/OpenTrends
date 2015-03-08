@@ -98,6 +98,15 @@ Since most interactions only involve a single dimension, and then only small adj
 
 ![demo](../images/demo_dropcap.png)
 
+## echo
+
+> [http://toddmotto.com/labs/echo/](http://toddmotto.com/labs/echo/)
+
+	LICENSE: MIT
+
+**Echo** is a standalone JavaScript lazy-loading image micro-library. Echo is fast, 2KB, and uses HTML5 data-* attributes for simple. Check out a demo. Echo works in IE8+.
+
+
 ## FileAPI
 
 > [http://mailru.github.io/FileAPI/](http://mailru.github.io/FileAPI/)
@@ -187,6 +196,14 @@ A simple micro-library for defining and dispatching keyboard shortcuts. It has n
 **Keymaster** understands the following modifiers: `⇧`, `shift`, `option`, `⌥`, `alt`, `ctrl`, `control`, `command`, and `⌘`.
 
 The following special keys can be used for shortcuts: `backspace`, `tab`, `clear`, `enter`, `return`, `esc`, `escape`, `space`, `up`, `down`, `left`, `right`, `home`, `end`, `pageup`, `pagedown`, `del`, `delete` and `f1` through `f19`.
+
+## lazy-load-xt
+
+> [https://github.com/ressio/lazy-load-xt](https://github.com/ressio/lazy-load-xt)
+
+	LICENSE: MIT
+
+**Lazy load XT** is a jQuery plugin for images, videos and other media.
 
 ## localForage
 
@@ -455,6 +472,14 @@ task.js works with any framework or library that uses the Promises/A spec.
 **TogetherJS** is a service for your website that makes it surprisingly easy to collaborate in real-time.
 
 Using TogetherJS two people can interact on the same page, seeing each other's cursors, edits, and browsing a site together. The TogetherJS service is included by the web site owner, and a web site can customize and configure aspects of TogetherJS's behavior on the site.
+
+## unveil
+
+> [https://github.com/luis-almeida/unveil](https://github.com/luis-almeida/unveil)
+
+	LICENSE: MIT
+
+A very lightweight plugin to lazy load images for jQuery or Zepto.js.
 
 ## vagueTime.js
 
