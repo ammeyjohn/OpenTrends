@@ -15,6 +15,7 @@
 * [CSS](doc/js-css.md)
 * [Component](doc/js-component.md)
 * [Framework](doc/js-framework.md)
+* [jQuery Plugin](doc/js-jquery.md)
 * [Library](doc/js-library.md)
 * [Machine Learning](doc/js-ml.md)
 * [Map](doc/js-map.md)

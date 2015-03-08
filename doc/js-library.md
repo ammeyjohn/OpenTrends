@@ -398,6 +398,54 @@ var allInOneDataViewer = new recline.View.MultiView({
 
 A finite state machine javascript micro framework.
 
+## ScrollMagic
+
+> [http://janpaepke.github.io/ScrollMagic/](http://janpaepke.github.io/ScrollMagic/)
+
+	LICENSE: MIT
+
+### The javascript library for magical scroll interactions.	
+	
+**ScrollMagic** helps you to easily react to the user's current scroll position.
+It's the perfect library for you, if you want to ...
+
+* animate based on scroll position – either trigger an animation or synchronize it to the scrollbar movement (like a playback scrub control).
+* pin an element starting at a specific scroll position – either indefinitely or for a limited amount of scroll progress (sticky elements).
+* toggle CSS classes of elements on and off based on scroll position.
+* effortlessly add parallax effects to your website.
+* create an infinitely scrolling page (ajax load of additional content).
+* add callbacks at specific scroll positions or while scrolling past a specific section, passing a progress parameter.
+
+### About the Library
+
+ScrollMagic is a scroll interaction library.
+
+It's a complete rewrite of its predecessor Superscrollorama by John Polacek.
+A plugin-based architecture offers easy customizability and extendability.
+
+To implement animations, ScrollMagic can work with multiple frameworks. The recommended solution is the Greensock Animation Platform (GSAP) due to its stability and feature richness. For a more lightweight approach the VelocityJS framework is also supported. Alternatively custom extensions can be implemented or the necessity of a framework can be completely avoided by animating simply using CSS and class toggles.
+
+ScrollMagic was developed with these principles in mind:
+
+* optimized performance
+* lightweight (6KB gzipped)
+* flexibility and extendibility
+* mobile compatibility
+* event management
+* support for responsive web design
+* object oriented programming and object chaining
+* readable, centralized code and intuitive development
+* support for both scroll directions (even different on one page)
+* support for scrolling inside div containers (even multiple on one page)
+* extensive debugging and logging capabilities
+* detailed documentation
+* many application examples
+
+#### Is ScrollMagic the right library for you?
+
+ScrollMagic takes an object oriented approach using a controller for each scroll container and attaching multiple scenes defining what should happen at what part of the page. While this offers a great deal of control, it might be a little confusing, especially if you're just starting out with javascript.
+If the above points are not crucial for you and you are just looking for a simple solution to implement css animations I would strongly recommend taking a look at the awesome skrollr project. It almost solely relies on element attributes and thus requires minimal to no javascript knowledge.
+
 ## string.js
 
 > [http://stringjs.com/](http://stringjs.com/)
