@@ -207,30 +207,6 @@ Customizable date (and time) picker. Opt-in UI, no jQuery!
 
 ![demo](../images/demo_rome.png)
 
-## Semantic-UI
-
-[http://semantic-ui.com/](http://semantic-ui.com/)
-
-	LICENSE: MIT
-
-![logo](../images/logo_semantic.png)
-**Semantic** is a highly-themable UI framework with naming conventions built around common usage.
-
-#### Key Features
-
- - 50+ UI Elements
- - 3000 + CSS Variables
- - 3 Levels of Variable Inheritance (Similar to SublimeText)
- - Built using EM values for responsive design
-
-#### Browser Support
-
- - Last 2 Versions FF, Chrome, IE (aka 10+)
- - Safari 6
- - IE 9+ (Browser prefix only)
- - Android 4
- - Blackberry 10
-
 ## snap.js
 
 > [https://github.com/jakiestfu/Snap.js](https://github.com/jakiestfu/Snap.js)
